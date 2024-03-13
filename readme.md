@@ -29,9 +29,6 @@ Ce projet correspond au TP d'IHMA sur l'Évaluation. Pour plus de détails, veui
   * [**/mainWindow.py**](src/mainWindow.py) : contient le code de la fenêtre principale du projet
 * [**main.py**](main.py) : contient le code d'execution du projet
 * [**readme.md**](readme.md) : fichier que vous lisez
-* [**retours-sur-v0.txt**](retours-sur-v0.txt) : retour de M.Nancel sur la 1ere version du rapport
-* [**/v0-Influence_Communicative_Keyboards-Screen.pdf**](v0-Influence_Communicative_Keyboards-Screen.pdf) : version initiale du rapport
-* [**/v1-Influence_Communicative_Keyboards-Screen.pdf**](v1-Influence_Communicative_Keyboards-Screen.pdf) : version intermédiaire du rapport
 * [**/vFinal-Influence_Communicative_Keyboards-Screen.pdf**](vFinal-Influence_Communicative_Keyboards-Screen.pdf) : version finale du rapport
 
 
