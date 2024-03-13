@@ -1,0 +1,14 @@
+0,date,animal,emplacement,nourriture,activite,vehicule
+1,date,octobre,avril,fevrier,janvier
+2,date,octobre,halloween,15/10,20/10,5/10,30/10
+2,date,avril,13/04,18/04,paque,30/04,01/04
+2,date,fevrier,01/02,20/02,10/02,07/02,st valentin
+1,animal,mammifere,insect,poisson
+2,animal,mammifere,kangourou,vache,furet
+2,animal,poisson,requin,carpe,poisson-clown
+1,emplacement,usa,espagne,belgique,grece
+2,emplacement,usa,los angeles,washington,new york,houston,las vegas
+1,activite,artisanat,entreprise,art,sport
+2,activite,artisanat,plomberie,menuiserie,verrerie,bijouterie,electricite
+2,activite,entreprise,entreprenariat,team-leading,gestion de projet
+2,activite,sport,musculation,judo,course

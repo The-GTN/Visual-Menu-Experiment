@@ -1,0 +1,13 @@
+0,date,activite,nourriture,vehicule,emplacement,animal
+1,date,mars,fevrier,octobre,septembre
+2,date,mars,20/03,10/03,30/03,21/03
+1,nourriture,legumes,patates,fastfood,fruit
+2,nourriture,patates,pomme dauphine,puree,patate sautee,gnocchis
+1,emplacement,angleterre,belgique,usa,grece,espagne
+2,emplacement,usa,san fransico,houston,las vegas,washington
+2,emplacement,grece,patras,heraklion,athenes,corinthe,rhodes
+2,emplacement,espagne,valence,barcelone,grenade,bilbao
+1,animal,insect,mammifere,reptile,oiseau
+2,animal,insect,fourmi,abeille,criquet,bousier,scarabee
+2,animal,reptile,serpent,alligator,iguane
+2,animal,oiseau,corbeau,vautour,cygne,aigle,pigeon

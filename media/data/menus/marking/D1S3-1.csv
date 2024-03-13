@@ -1,0 +1,14 @@
+0,date,nourriture,activite,emplacement,vehicule,animal
+1,nourriture,fruit,patates,pates,legumes,boissons
+2,nourriture,fruit,ananas,banane,orange
+2,nourriture,pates,farfalle,spaghetti,tagliatelle,lasagne,linguinie
+2,nourriture,legumes,courgette,champignon,poireau,aubergine
+1,activite,entreprise,artisanat,sport
+2,activite,artisanat,charpenterie,forgerie,plomberie,bijouterie,verrerie
+2,activite,sport,musculation,patinage,natation,judo,course
+1,emplacement,angleterre,grece,espagne,usa
+2,emplacement,grece,corinthe,rhodes,patras,argos,athenes
+2,emplacement,espagne,grenade,bilbao,seville,valence,barcelone
+2,emplacement,usa,miami,washington,new york,los angeles
+1,vehicule,bateau,voiture,fusee
+2,vehicule,fusee,rocket,OVNI,spatial-tesla

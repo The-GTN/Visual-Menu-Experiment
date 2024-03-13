@@ -1,0 +1,12 @@
+0,activite,nourriture,emplacement,vehicule,animal,date
+1,activite,artisanat,sport,profession
+2,activite,sport,judo,tennis,natation
+1,emplacement,grece,usa,espagne,belgique
+2,emplacement,usa,las vegas,new york,houston,san fransico,washington
+2,emplacement,espagne,seville,grenade,madrid,valence,barcelone
+1,animal,insect,oiseau,poisson,mammifere,reptile
+2,animal,poisson,requin,poisson-chat,truite,carpe,poisson-clown
+2,animal,reptile,iguane,geiko,crocodile
+1,date,decembre,mars,avril,fevrier
+2,date,avril,12/04,paque,18/04
+2,date,fevrier,22/02,05/02,10/02,20/02

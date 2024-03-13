@@ -1,0 +1,14 @@
+0,vehicule,activite,nourriture,emplacement,date,animal
+1,vehicule,velo,fusee,train,voiture
+2,vehicule,velo,trotinette,vtt,monocycle
+2,vehicule,fusee,ariane,OVNI,spatial-tesla
+1,nourriture,patates,fruit,desserts,pates
+2,nourriture,patates,patate sautee,grattin dauphinois,frite
+2,nourriture,fruit,fraise,peche,banane,pomme
+1,emplacement,espagne,france,usa
+1,date,janvier,decembre,mars,avril,fevrier
+2,date,janvier,02/01,nouvel an,galette des rois,15/01,28/01
+2,date,avril,12/04,11/04,13/04,30/04
+2,date,fevrier,05/02,20/02,07/02,st valentin
+1,animal,oiseau,mammifere,reptile,poisson
+2,animal,oiseau,corbeau,vautour,chouette,aigle

@@ -1,0 +1,11 @@
+0,emplacement,vehicule,animal,nourriture
+1,emplacement,angleterre,belgique,usa,espagne
+2,emplacement,angleterre,oxford,manchester,liverpool,brighton,bristol
+2,emplacement,usa,miami,las vegas,washington
+1,animal,poisson,reptile,insect,oiseau
+2,animal,poisson,poisson-clown,poisson-chat,truite,requin,saumon
+2,animal,reptile,crocodile,alligator,serpent,lezard,iguane
+2,animal,insect,abeille,scarabee,fourmi
+1,nourriture,desserts,fastfood,legumes,pates
+2,nourriture,fastfood,sushis,nugget,kebab
+2,nourriture,legumes,poivron,tomate,courgette

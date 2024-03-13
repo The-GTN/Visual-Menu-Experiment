@@ -1,0 +1,17 @@
+0,animal,activite,nourriture,emplacement,vehicule,date
+1,animal,reptile,poisson,mammifere
+2,animal,reptile,crocodile,geiko,dragon
+2,animal,mammifere,humain,chat,chien
+1,activite,entreprise,profession,artisanat
+2,activite,entreprise,entreprenariat,start-up,co-working,management
+2,activite,artisanat,bijouterie,charpenterie,forgerie,verrerie
+1,nourriture,fruit,boissons,patates
+2,nourriture,fruit,peche,mangue,banane
+2,nourriture,boissons,chocolat chaud,cafe,soda,jus de fruits
+1,emplacement,france,belgique,grece,italie
+2,emplacement,france,lille,roubaix,bordeaux,toulouse
+2,emplacement,belgique,liege,charleroi,menin
+2,emplacement,grece,thessalonique,corinthe,patras,rhodes
+1,date,mars,avril,decembre,septembre
+2,date,mars,22/03,07/03,30/03
+2,date,septembre,07/09,13/09,01/09

@@ -1,0 +1,12 @@
+0,vehicule,emplacement,nourriture,date,activite,animal
+1,nourriture,boissons,pates,legumes,fruit
+1,date,fevrier,janvier,avril,mars
+2,date,janvier,02/01,nouvel an,15/01
+2,date,mars,21/03,22/03,10/03,st patrick
+1,activite,entreprise,profession,sport,artisanat
+2,activite,entreprise,gestion de projet,entreprenariat,intraprenariat,team-leading
+2,activite,sport,tennis,natation,badminton
+2,activite,artisanat,plomberie,verrerie,menuiserie,charpenterie,bijouterie
+1,animal,insect,reptile,poisson,oiseau
+2,animal,poisson,requin,poisson-clown,poisson-chat,truite
+2,animal,oiseau,chouette,cygne,aigle,pigeon

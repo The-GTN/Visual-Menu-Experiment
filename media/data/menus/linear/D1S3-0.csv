@@ -1,0 +1,16 @@
+0,emplacement,date,nourriture,activite,animal,vehicule
+1,date,mars,septembre,janvier,octobre,avril
+2,date,octobre,11/10,5/10,30/10,15/10
+2,date,avril,13/04,11/04,18/04,30/04
+1,nourriture,fruit,boissons,desserts
+2,nourriture,fruit,fraise,banane,pomme
+1,activite,art,profession,entreprise
+2,activite,art,danse,cinema,bande-dessinee
+1,animal,insect,mammifere,reptile,oiseau
+2,animal,insect,scarabee,bousier,fourmi,moustique
+2,animal,mammifere,ours,chat,vache
+2,animal,reptile,serpent,iguane,crocodile,lezard
+2,animal,oiseau,pigeon,corbeau,pie,vautour
+1,vehicule,train,bateau,fusee,avion
+2,vehicule,bateau,jetski,pedalo,chalutier,yacht
+2,vehicule,avion,jet-prive,avion-de-tourisme,avion-de-chasse,helico

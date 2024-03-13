@@ -1,0 +1,18 @@
+0,activite,animal,vehicule,nourriture,date,emplacement
+1,activite,entreprise,art,jeux,sport,artisanat
+2,activite,artisanat,forgerie,menuiserie,verrerie,electricite,bijouterie
+1,animal,reptile,mammifere,poisson
+2,animal,reptile,dragon,alligator,crocodile
+2,animal,mammifere,humain,ours,kangourou
+1,vehicule,fusee,bateau,velo
+2,vehicule,fusee,rocket,apollo13,spatial-tesla,ISS
+1,nourriture,boissons,pates,desserts,patates
+2,nourriture,boissons,biere,eau,vin
+2,nourriture,desserts,compote,glace,gateau,tarte
+2,nourriture,patates,patate douce,grattin dauphinois,gnocchis,pomme dauphine
+1,date,septembre,decembre,janvier,octobre,mars
+2,date,decembre,08/12,02/12,10/12,noel,16/12
+2,date,mars,22/03,st patrick,10/03
+1,emplacement,espagne,grece,usa,italie
+2,emplacement,espagne,bilbao,valence,barcelone,grenade,madrid
+2,emplacement,italie,naples,pompei,parme,venise,bologne

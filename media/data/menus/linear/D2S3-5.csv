@@ -1,0 +1,10 @@
+0,animal,emplacement,date,activite,nourriture,vehicule
+1,emplacement,belgique,angleterre,grece,italie
+2,emplacement,angleterre,liverpool,brighton,oxford
+2,emplacement,grece,heraklion,corinthe,athenes
+2,emplacement,italie,rome,florence,parme,milan
+1,date,avril,fevrier,octobre,janvier
+2,date,avril,12/04,30/04,paque
+2,date,octobre,halloween,30/10,11/10,01/10
+1,nourriture,fruit,boissons,patates,desserts
+2,nourriture,fruit,orange,fraise,mangue,peche

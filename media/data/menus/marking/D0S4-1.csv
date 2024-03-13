@@ -1,0 +1,9 @@
+0,activite,date,animal,emplacement
+1,activite,jeux,art,entreprise,sport
+2,activite,art,gravure,musique,peinture
+2,activite,entreprise,co-working,start-up,intraprenariat,management
+1,date,decembre,mars,septembre,octobre,avril
+1,animal,poisson,insect,reptile,oiseau
+2,animal,poisson,poisson-chat,truite,poisson-clown,carpe
+2,animal,reptile,dragon,alligator,lezard,iguane,crocodile
+2,animal,oiseau,corbeau,vautour,aigle,pigeon,cygne

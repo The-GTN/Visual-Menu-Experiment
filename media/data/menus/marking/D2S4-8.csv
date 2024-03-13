@@ -1,0 +1,16 @@
+0,vehicule,date,activite,emplacement,animal,nourriture
+1,vehicule,avion,train,voiture
+2,vehicule,voiture,renault,voiturette,4x4
+1,date,septembre,decembre,fevrier,avril
+2,date,septembre,07/09,15/09,20/09
+2,date,avril,12/04,01/04,13/04,30/04
+1,activite,art,artisanat,jeux,profession
+1,emplacement,france,espagne,belgique,angleterre
+2,emplacement,espagne,barcelone,seville,grenade,madrid
+2,emplacement,belgique,bruxelles,liege,mouscrons,charleroi
+2,emplacement,angleterre,manchester,brighton,bristol,liverpool
+1,animal,insect,reptile,mammifere,poisson
+2,animal,insect,moustique,criquet,scarabee,bousier
+1,nourriture,fastfood,boissons,desserts,patates
+2,nourriture,fastfood,burritos,nugget,pizza
+2,nourriture,desserts,yahourt,milkshake,compote

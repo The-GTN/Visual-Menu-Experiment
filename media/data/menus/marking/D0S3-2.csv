@@ -1,0 +1,4 @@
+0,nourriture,activite,vehicule
+1,vehicule,train,avion,velo,bateau
+2,vehicule,train,locomotive,tram,sncf
+2,vehicule,bateau,chalutier,pedalo,yacht,voilier

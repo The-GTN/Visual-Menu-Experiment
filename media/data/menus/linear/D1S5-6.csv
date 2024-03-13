@@ -1,0 +1,21 @@
+0,date,vehicule,emplacement,activite,nourriture,animal
+1,date,septembre,decembre,janvier,avril
+2,date,janvier,15/01,nouvel an,galette des rois
+2,date,avril,01/04,paque,30/04,18/04
+1,vehicule,voiture,fusee,velo,avion,bateau
+2,vehicule,voiture,voiturette,honda,toyota
+2,vehicule,velo,monocycle,trotinette,moto,bicyclette,vtt
+2,vehicule,bateau,yacht,jetski,paquebot,chalutier
+1,emplacement,italie,france,espagne
+2,emplacement,france,tourcoing,roubaix,bordeaux,grenoble
+2,emplacement,espagne,madrid,valence,bilbao,grenade
+1,activite,artisanat,jeux,profession,art
+2,activite,profession,boucher,boulanger,pompier
+2,activite,art,litterature,bande-dessinee,gravure,musique
+1,nourriture,patates,fastfood,boissons,legumes
+2,nourriture,patates,grattin dauphinois,frite,gnocchis,pomme dauphine,puree
+2,nourriture,fastfood,sushis,nugget,burritos,tacos
+1,animal,insect,mammifere,oiseau,poisson
+2,animal,insect,criquet,mante-religieuse,scarabee,abeille
+2,animal,oiseau,corbeau,vautour,chouette
+2,animal,poisson,requin,poisson-chat,truite

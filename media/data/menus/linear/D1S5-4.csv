@@ -1,0 +1,16 @@
+0,emplacement,animal,vehicule,activite,date,nourriture
+1,emplacement,belgique,angleterre,france,espagne
+2,emplacement,angleterre,oxford,manchester,liverpool,brighton,leeds
+2,emplacement,france,paris,roubaix,lille
+1,animal,poisson,mammifere,insect,oiseau
+2,animal,mammifere,humain,ours,chat,vache,kangourou
+2,animal,insect,bousier,mante-religieuse,scarabee,abeille,criquet
+2,animal,oiseau,chouette,cygne,pie
+1,vehicule,bateau,train,voiture
+1,activite,artisanat,profession,sport
+2,activite,profession,boucher,pompier,professeur,boulanger
+1,nourriture,fastfood,fruit,boissons,desserts,patates
+2,nourriture,fruit,banane,pomme,orange,mangue,fraise
+2,nourriture,boissons,chocolat chaud,eau,the glacee,jus de fruits,vin
+2,nourriture,desserts,compote,yahourt,tarte,ile flottante
+2,nourriture,patates,patate douce,frite,gnocchis,grattin dauphinois,pomme dauphine

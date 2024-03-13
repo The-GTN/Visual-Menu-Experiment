@@ -1,0 +1,18 @@
+0,emplacement,vehicule,nourriture,activite,animal,date
+1,emplacement,belgique,usa,angleterre,italie
+2,emplacement,belgique,namur,menin,bruges,charleroi
+2,emplacement,usa,houston,miami,san fransico,las vegas,washington
+1,vehicule,fusee,bateau,velo,train
+2,vehicule,fusee,ISS,ariane,rocket,OVNI,apollo13
+2,vehicule,bateau,chalutier,pedalo,paquebot,voilier
+1,nourriture,fastfood,legumes,boissons
+1,activite,artisanat,sport,profession,art
+2,activite,sport,musculation,badminton,natation
+2,activite,profession,boulanger,medecin,boucher
+2,activite,art,danse,peinture,bande-dessinee,gravure,cinema
+1,animal,mammifere,oiseau,insect,reptile
+2,animal,oiseau,chouette,aigle,pigeon
+1,date,mars,janvier,octobre,decembre
+2,date,mars,22/03,21/03,st patrick
+2,date,octobre,30/10,5/10,20/10,halloween
+2,date,decembre,01/12,reveillon,noel

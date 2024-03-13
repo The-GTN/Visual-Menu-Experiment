@@ -1,0 +1,18 @@
+0,animal,nourriture,vehicule,date,emplacement,activite
+1,nourriture,fruit,pates,fastfood,patates
+2,nourriture,fruit,peche,fraise,banane,pomme
+2,nourriture,fastfood,burger,tacos,burritos,sushis
+1,vehicule,bateau,voiture,train,avion
+2,vehicule,bateau,jetski,paquebot,chalutier,pedalo
+2,vehicule,voiture,toyota,ferrari,4x4,lamborghini,voiturette
+2,vehicule,avion,avion-de-tourisme,avion-de-chasse,helico,jet-pack,mongolfiere
+1,date,octobre,septembre,mars,fevrier
+2,date,octobre,20/10,30/10,5/10,15/10,01/10
+2,date,septembre,01/09,07/09,20/09
+2,date,mars,22/03,st patrick,30/03,21/03,20/03
+1,emplacement,espagne,usa,france,belgique
+2,emplacement,usa,washington,houston,san fransico
+2,emplacement,france,lille,bordeaux,toulouse
+1,activite,artisanat,jeux,art,profession,entreprise
+2,activite,profession,medecin,professeur,pompier
+2,activite,entreprise,co-working,entreprenariat,team-leading

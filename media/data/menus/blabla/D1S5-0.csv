@@ -1,0 +1,20 @@
+0,vehicule,date,nourriture,activite,emplacement,animal
+1,vehicule,voiture,velo,bateau,train,avion
+2,vehicule,bateau,yacht,voilier,pedalo,chalutier,paquebot
+2,vehicule,avion,helico,avion-de-tourisme,avion-de-chasse,mongolfiere,jet-prive
+1,date,mars,decembre,avril,fevrier
+2,date,avril,01/04,13/04,paque
+2,date,fevrier,01/02,07/02,05/02,20/02
+1,nourriture,fastfood,desserts,legumes,patates,fruit
+2,nourriture,desserts,tarte,yahourt,ile flottante,milkshake
+2,nourriture,patates,patate sautee,gnocchis,puree,pomme dauphine,patate douce
+2,nourriture,fruit,orange,peche,pomme,mangue,banane
+1,activite,entreprise,artisanat,art,profession
+2,activite,artisanat,menuiserie,verrerie,forgerie,bijouterie
+2,activite,art,theatre,musique,sculpture
+1,emplacement,usa,belgique,grece,angleterre
+2,emplacement,grece,corinthe,thessalonique,argos
+1,animal,oiseau,insect,reptile,poisson,mammifere
+2,animal,oiseau,pie,pigeon,aigle,corbeau,chouette
+2,animal,insect,fourmi,criquet,abeille,bousier,moustique
+2,animal,mammifere,chien,humain,ours,furet

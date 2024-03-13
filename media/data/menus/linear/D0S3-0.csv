@@ -1,0 +1,8 @@
+0,animal,emplacement,activite
+1,animal,reptile,mammifere,oiseau,poisson
+2,animal,mammifere,furet,humain,vache,chat,chien
+2,animal,poisson,poisson-chat,saumon,sardine
+1,activite,jeux,sport,profession,entreprise
+2,activite,jeux,jeux exterieurs,escape game,jeux video,lotterie
+2,activite,profession,fleuriste,medecin,boucher
+2,activite,entreprise,team-leading,management,start-up,entreprenariat

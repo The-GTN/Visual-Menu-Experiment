@@ -1,0 +1,17 @@
+0,emplacement,vehicule,activite,date,animal,nourriture
+1,emplacement,italie,belgique,espagne,grece
+2,emplacement,italie,rome,milan,venise,turin,naples
+2,emplacement,belgique,bruxelles,mouscrons,bruges,charleroi
+2,emplacement,espagne,valence,seville,grenade,bilbao
+2,emplacement,grece,corinthe,thessalonique,athenes,patras,argos
+1,vehicule,avion,bateau,voiture,train,velo
+2,vehicule,velo,vtt,moto,velo-electrique,tricycle,trotinette
+1,activite,sport,art,profession
+2,activite,sport,judo,tennis,badminton,patinage,musculation
+2,activite,art,cinema,danse,bande-dessinee,sculpture,musique
+1,date,janvier,octobre,mars,decembre
+2,date,mars,10/03,st patrick,30/03,22/03,20/03
+1,animal,oiseau,mammifere,poisson,reptile
+2,animal,oiseau,pigeon,corbeau,chouette,aigle,cygne
+2,animal,mammifere,chat,furet,humain,kangourou
+2,animal,poisson,poisson-clown,requin,poisson-chat,truite

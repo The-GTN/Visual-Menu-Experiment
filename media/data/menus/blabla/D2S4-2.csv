@@ -1,0 +1,17 @@
+0,animal,nourriture,activite,date,emplacement,vehicule
+1,animal,mammifere,poisson,oiseau,reptile
+2,animal,oiseau,cygne,chouette,vautour
+2,animal,reptile,alligator,geiko,iguane
+1,nourriture,desserts,fastfood,patates,pates,boissons
+2,nourriture,patates,grattin dauphinois,patate douce,frite,pomme dauphine
+2,nourriture,pates,linguinie,tagliatelle,lasagne,farfalle,penne
+1,activite,profession,sport,jeux,entreprise
+2,activite,profession,professeur,medecin,boulanger
+2,activite,sport,tennis,natation,patinage,musculation,judo
+1,emplacement,usa,grece,espagne,italie
+2,emplacement,usa,houston,las vegas,los angeles
+2,emplacement,grece,athenes,corinthe,thessalonique,heraklion
+1,vehicule,bateau,velo,fusee,voiture
+2,vehicule,velo,trotinette,moto,velo-electrique,monocycle
+2,vehicule,fusee,ariane,vaisseau-spatial,ISS,rocket,OVNI
+2,vehicule,voiture,voiturette,renault,lamborghini

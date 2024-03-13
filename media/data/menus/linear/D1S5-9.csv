@@ -1,0 +1,16 @@
+0,emplacement,vehicule,date,animal,nourriture,activite
+1,emplacement,grece,france,italie,usa,espagne
+2,emplacement,usa,los angeles,las vegas,miami,new york,san fransico
+1,date,fevrier,mars,octobre,avril
+2,date,fevrier,07/02,10/02,22/02
+2,date,octobre,01/10,11/10,20/10,15/10,30/10
+2,date,avril,paque,13/04,11/04,01/04,12/04
+1,animal,insect,reptile,oiseau,poisson
+2,animal,insect,mante-religieuse,scarabee,moustique,fourmi
+2,animal,reptile,geiko,dragon,crocodile
+2,animal,poisson,carpe,truite,poisson-chat
+1,activite,entreprise,profession,art,artisanat
+2,activite,entreprise,co-working,start-up,management,team-leading
+2,activite,profession,boulanger,astronaute,boucher
+2,activite,art,gravure,theatre,danse,musique,peinture
+2,activite,artisanat,menuiserie,electricite,verrerie

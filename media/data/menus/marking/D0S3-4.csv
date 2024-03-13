@@ -1,0 +1,8 @@
+0,animal,activite,emplacement
+1,animal,poisson,reptile,insect,mammifere
+2,animal,reptile,dragon,geiko,lezard,serpent,iguane
+2,animal,insect,scarabee,criquet,mante-religieuse,abeille,fourmi
+1,activite,art,sport,artisanat,profession
+2,activite,art,cinema,peinture,sculpture
+2,activite,sport,patinage,tennis,musculation,course
+2,activite,profession,fleuriste,astronaute,boucher,medecin

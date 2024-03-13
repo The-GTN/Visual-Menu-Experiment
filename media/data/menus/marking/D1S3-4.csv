@@ -1,0 +1,17 @@
+0,vehicule,emplacement,date,activite,animal,nourriture
+1,vehicule,train,avion,fusee
+2,vehicule,avion,mongolfiere,jet-prive,helico,avion-de-tourisme
+1,emplacement,espagne,italie,angleterre,france,belgique
+2,emplacement,angleterre,liverpool,bristol,londres,manchester,oxford
+2,emplacement,belgique,menin,charleroi,liege,bruxelles
+1,date,octobre,mars,avril,decembre
+2,date,mars,st patrick,20/03,22/03
+2,date,avril,30/04,12/04,18/04,01/04,13/04
+2,date,decembre,02/12,08/12,reveillon,noel
+1,activite,art,artisanat,entreprise
+2,activite,entreprise,entreprenariat,team-leading,intraprenariat,start-up
+1,animal,reptile,mammifere,insect,oiseau
+2,animal,reptile,crocodile,dragon,serpent,lezard,iguane
+2,animal,insect,abeille,mante-religieuse,scarabee,moustique
+1,nourriture,fruit,pates,legumes
+2,nourriture,fruit,mangue,orange,ananas

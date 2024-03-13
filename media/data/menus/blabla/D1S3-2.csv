@@ -1,0 +1,16 @@
+0,animal,date,activite,emplacement,nourriture,vehicule
+1,animal,mammifere,oiseau,insect,poisson
+2,animal,mammifere,furet,chat,humain
+2,animal,insect,fourmi,mante-religieuse,scarabee,moustique,criquet
+1,activite,jeux,entreprise,profession,art
+2,activite,profession,medecin,pompier,professeur
+2,activite,art,gravure,musique,litterature
+1,emplacement,usa,grece,angleterre,belgique
+2,emplacement,angleterre,oxford,londres,leeds,liverpool,bristol
+1,nourriture,fastfood,boissons,pates
+2,nourriture,fastfood,burger,kebab,pizza,tacos
+2,nourriture,boissons,eau,soda,chocolat chaud,the,jus de fruits
+1,vehicule,train,voiture,velo,bateau
+2,vehicule,voiture,toyota,renault,lamborghini,4x4,ferrari
+2,vehicule,velo,tricycle,bicyclette,vtt,moto
+2,vehicule,bateau,jetski,paquebot,chalutier,voilier

@@ -1,0 +1,17 @@
+0,nourriture,date,animal,emplacement,vehicule,activite
+1,date,septembre,octobre,janvier,avril
+2,date,septembre,25/09,01/09,13/09,20/09
+2,date,octobre,11/10,30/10,halloween,20/10
+2,date,avril,01/04,12/04,30/04
+1,animal,mammifere,insect,oiseau
+2,animal,mammifere,humain,furet,kangourou,vache,chat
+2,animal,oiseau,aigle,pigeon,corbeau
+1,emplacement,grece,france,italie
+2,emplacement,grece,thessalonique,athenes,heraklion
+2,emplacement,italie,florence,turin,milan
+1,vehicule,bateau,velo,fusee,train,voiture
+2,vehicule,train,metro,wagon,rer
+1,activite,sport,entreprise,jeux,profession
+2,activite,entreprise,management,co-working,team-leading,start-up
+2,activite,jeux,jeux de plateaux,lotterie,casino,jeux exterieurs,escape game
+2,activite,profession,boulanger,pompier,astronaute

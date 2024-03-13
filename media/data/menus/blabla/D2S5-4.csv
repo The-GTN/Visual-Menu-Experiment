@@ -1,0 +1,20 @@
+0,emplacement,animal,vehicule,date,activite,nourriture
+1,emplacement,italie,usa,angleterre,grece
+2,emplacement,usa,miami,washington,los angeles,houston,san fransico
+2,emplacement,angleterre,oxford,londres,manchester,leeds
+1,animal,reptile,poisson,oiseau,mammifere,insect
+2,animal,reptile,dragon,alligator,iguane
+2,animal,poisson,poisson-chat,truite,saumon
+2,animal,oiseau,pigeon,chouette,aigle,corbeau
+2,animal,mammifere,ours,vache,chien
+1,vehicule,fusee,bateau,train
+2,vehicule,fusee,apollo13,spatial-tesla,ariane,vaisseau-spatial,rocket
+2,vehicule,bateau,pedalo,chalutier,voilier,jetski,yacht
+1,date,fevrier,octobre,avril,mars
+2,date,fevrier,05/02,07/02,22/02,10/02
+2,date,octobre,20/10,30/10,11/10,halloween
+2,date,avril,30/04,12/04,01/04,11/04,13/04
+1,activite,artisanat,entreprise,sport,jeux
+2,activite,artisanat,menuiserie,verrerie,electricite,charpenterie
+2,activite,entreprise,entreprenariat,management,intraprenariat,team-leading,co-working
+2,activite,jeux,lotterie,casino,escape game,jeux de plateaux

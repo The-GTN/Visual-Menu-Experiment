@@ -1,0 +1,12 @@
+0,vehicule,emplacement,nourriture,animal,activite,date
+1,vehicule,fusee,voiture,bateau,velo
+2,vehicule,fusee,spatial-tesla,OVNI,apollo13,ariane
+2,vehicule,voiture,4x4,voiturette,ferrari,renault
+2,vehicule,bateau,pedalo,chalutier,yacht,paquebot,jetski
+2,vehicule,velo,bicyclette,trotinette,monocycle,tricycle,vtt
+1,emplacement,angleterre,espagne,usa,belgique
+2,emplacement,angleterre,liverpool,leeds,oxford,bristol
+2,emplacement,espagne,bilbao,madrid,barcelone
+1,nourriture,pates,patates,fastfood,boissons
+2,nourriture,pates,coquillette,farfalle,linguinie,spaghetti,penne
+2,nourriture,patates,frite,grattin dauphinois,puree

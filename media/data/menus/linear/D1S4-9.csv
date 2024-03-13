@@ -1,0 +1,16 @@
+0,vehicule,nourriture,activite,emplacement,animal,date
+1,nourriture,fastfood,pates,desserts
+2,nourriture,desserts,yahourt,glace,ile flottante,gateau
+1,activite,profession,jeux,sport,artisanat
+2,activite,jeux,escape game,jeux exterieurs,jeux video,casino
+2,activite,sport,badminton,tennis,natation,patinage,musculation
+2,activite,artisanat,forgerie,plomberie,menuiserie,bijouterie,electricite
+1,emplacement,angleterre,usa,italie,grece
+2,emplacement,angleterre,londres,bristol,oxford,brighton,manchester
+2,emplacement,usa,new york,washington,houston,los angeles,miami
+2,emplacement,grece,heraklion,argos,patras,athenes,rhodes
+1,animal,mammifere,reptile,insect,poisson
+2,animal,insect,abeille,fourmi,mante-religieuse,scarabee,bousier
+1,date,decembre,fevrier,avril,septembre
+2,date,fevrier,05/02,20/02,07/02
+2,date,septembre,10/09,25/09,07/09

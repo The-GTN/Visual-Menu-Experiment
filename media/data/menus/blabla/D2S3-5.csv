@@ -1,0 +1,15 @@
+0,emplacement,animal,date,nourriture,vehicule,activite
+1,emplacement,espagne,belgique,usa,angleterre
+2,emplacement,espagne,seville,grenade,bilbao
+1,animal,poisson,insect,mammifere
+2,animal,insect,criquet,fourmi,abeille
+1,date,octobre,fevrier,decembre,septembre
+2,date,decembre,10/12,08/12,reveillon
+2,date,septembre,20/09,25/09,15/09,13/09,10/09
+1,nourriture,pates,fastfood,patates
+2,nourriture,fastfood,nugget,kebab,sushis,tacos
+1,vehicule,train,voiture,bateau,velo
+2,vehicule,train,wagon,sncf,draisine
+2,vehicule,voiture,lamborghini,voiturette,renault,ferrari,toyota
+2,vehicule,bateau,yacht,voilier,paquebot,pedalo,chalutier
+2,vehicule,velo,vtt,trotinette,monocycle,velo-electrique,tricycle

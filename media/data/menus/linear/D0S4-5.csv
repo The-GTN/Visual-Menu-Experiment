@@ -1,0 +1,6 @@
+0,animal,date,emplacement,activite
+1,date,septembre,avril,mars
+2,date,mars,30/03,07/03,20/03
+1,activite,profession,entreprise,art,artisanat
+2,activite,art,theatre,litterature,danse,peinture,cinema
+2,activite,artisanat,menuiserie,forgerie,bijouterie,charpenterie

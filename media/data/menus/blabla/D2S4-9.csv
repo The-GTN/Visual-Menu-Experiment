@@ -1,0 +1,10 @@
+0,nourriture,date,vehicule,animal,emplacement,activite
+1,nourriture,fastfood,pates,legumes,fruit
+2,nourriture,fastfood,nugget,burger,pizza,burritos
+2,nourriture,pates,spaghetti,tagliatelle,penne,farfalle
+2,nourriture,legumes,poivron,aubergine,carotte,poireau,champignon
+1,date,avril,septembre,janvier,octobre
+2,date,septembre,15/09,20/09,07/09,10/09,01/09
+2,date,janvier,02/01,20/01,nouvel an
+2,date,octobre,5/10,halloween,20/10,30/10,11/10
+1,emplacement,grece,belgique,espagne,france

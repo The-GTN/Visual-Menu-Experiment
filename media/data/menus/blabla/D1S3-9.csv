@@ -1,0 +1,14 @@
+0,activite,nourriture,date,emplacement,vehicule,animal
+1,nourriture,pates,fastfood,fruit
+1,date,janvier,mars,decembre,septembre
+2,date,janvier,02/01,28/01,galette des rois
+2,date,mars,10/03,21/03,07/03,20/03
+2,date,septembre,07/09,13/09,15/09,10/09,25/09
+1,emplacement,belgique,usa,angleterre
+2,emplacement,belgique,liege,namur,bruxelles
+1,vehicule,fusee,train,avion,bateau
+2,vehicule,train,locomotive,metro,tram,sncf,draisine
+2,vehicule,bateau,voilier,jetski,yacht
+1,animal,poisson,oiseau,mammifere
+2,animal,oiseau,pie,corbeau,vautour
+2,animal,mammifere,chien,furet,humain

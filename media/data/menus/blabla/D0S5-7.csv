@@ -1,0 +1,12 @@
+0,animal,date,nourriture,activite,emplacement
+1,nourriture,pates,boissons,fastfood,desserts
+2,nourriture,pates,lasagne,penne,farfalle
+2,nourriture,fastfood,nugget,tacos,sushis,kebab
+1,activite,artisanat,art,sport,profession
+2,activite,artisanat,bijouterie,verrerie,menuiserie,electricite
+2,activite,art,cinema,sculpture,theatre,bande-dessinee,gravure
+2,activite,profession,professeur,boulanger,astronaute
+1,emplacement,france,italie,espagne,belgique,angleterre
+2,emplacement,italie,turin,parme,naples
+2,emplacement,belgique,charleroi,menin,namur,liege
+2,emplacement,angleterre,bristol,londres,liverpool,oxford

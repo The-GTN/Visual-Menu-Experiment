@@ -1,0 +1,14 @@
+0,date,activite,emplacement,nourriture,vehicule,animal
+1,date,fevrier,avril,janvier,octobre
+2,date,avril,11/04,30/04,paque,13/04,18/04
+1,activite,jeux,sport,entreprise,profession
+2,activite,profession,boulanger,pompier,astronaute
+1,nourriture,fastfood,patates,boissons,desserts
+2,nourriture,patates,frite,patate douce,grattin dauphinois,gnocchis
+1,vehicule,fusee,velo,avion
+2,vehicule,avion,avion-de-tourisme,avion-de-chasse,jet-pack,helico,mongolfiere
+1,animal,oiseau,insect,poisson,mammifere,reptile
+2,animal,insect,criquet,fourmi,bousier,moustique
+2,animal,poisson,requin,carpe,poisson-chat,truite
+2,animal,mammifere,kangourou,ours,vache
+2,animal,reptile,lezard,crocodile,dragon,alligator,serpent

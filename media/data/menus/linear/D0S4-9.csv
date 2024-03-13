@@ -1,0 +1,14 @@
+0,emplacement,nourriture,vehicule,activite
+1,nourriture,desserts,fastfood,legumes,fruit
+2,nourriture,desserts,ile flottante,milkshake,compote,glace,gateau
+2,nourriture,fastfood,kebab,burritos,pizza
+2,nourriture,legumes,tomate,poireau,champignon
+2,nourriture,fruit,banane,orange,peche,fraise,mangue
+1,vehicule,train,avion,fusee,velo,voiture
+2,vehicule,train,rer,draisine,locomotive,sncf,metro
+2,vehicule,avion,jet-pack,helico,avion-de-tourisme
+2,vehicule,velo,monocycle,moto,tricycle,velo-electrique
+1,activite,artisanat,jeux,sport,entreprise,profession
+2,activite,sport,badminton,judo,musculation
+2,activite,entreprise,start-up,intraprenariat,management
+2,activite,profession,astronaute,medecin,professeur,boulanger,boucher

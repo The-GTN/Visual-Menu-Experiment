@@ -1,0 +1,12 @@
+0,emplacement,animal,vehicule,nourriture,activite,date
+1,emplacement,angleterre,france,usa,espagne
+2,emplacement,angleterre,leeds,londres,liverpool,oxford
+2,emplacement,usa,san fransico,new york,miami,los angeles
+1,vehicule,avion,train,voiture
+2,vehicule,train,metro,locomotive,draisine,sncf,wagon
+1,activite,artisanat,entreprise,sport,profession
+2,activite,sport,musculation,badminton,natation,patinage,tennis
+2,activite,profession,pompier,boulanger,fleuriste,astronaute
+1,date,fevrier,mars,octobre,septembre
+2,date,mars,st patrick,22/03,30/03
+2,date,septembre,13/09,01/09,15/09,20/09,10/09

@@ -1,0 +1,16 @@
+0,nourriture,vehicule,activite,animal,date,emplacement
+1,activite,profession,jeux,artisanat,art
+2,activite,profession,medecin,pompier,professeur,boulanger
+2,activite,jeux,casino,escape game,laser game,jeux de plateaux
+1,animal,mammifere,reptile,poisson,insect
+2,animal,mammifere,chat,humain,chien,ours,kangourou
+2,animal,reptile,serpent,alligator,crocodile,iguane
+2,animal,poisson,requin,poisson-clown,sardine
+1,date,octobre,avril,fevrier,septembre
+2,date,octobre,5/10,01/10,11/10
+2,date,avril,11/04,12/04,18/04,13/04
+2,date,septembre,10/09,20/09,13/09,07/09
+1,emplacement,belgique,espagne,usa,italie,france
+2,emplacement,belgique,bruxelles,bruges,charleroi
+2,emplacement,usa,houston,los angeles,san fransico
+2,emplacement,italie,venise,parme,turin

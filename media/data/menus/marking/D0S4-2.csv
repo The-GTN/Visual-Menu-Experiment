@@ -1,0 +1,8 @@
+0,activite,vehicule,nourriture,animal
+1,activite,profession,jeux,art,artisanat,sport
+2,activite,artisanat,menuiserie,verrerie,charpenterie
+1,vehicule,voiture,velo,train,avion
+2,vehicule,train,draisine,rer,tram,wagon,sncf
+2,vehicule,avion,mongolfiere,jet-prive,avion-de-tourisme,avion-de-chasse
+1,nourriture,pates,boissons,fastfood
+2,nourriture,pates,farfalle,penne,spaghetti,coquillette,lasagne

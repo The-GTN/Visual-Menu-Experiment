@@ -1,0 +1,11 @@
+0,emplacement,vehicule,date,activite,animal,nourriture
+1,emplacement,grece,italie,france,espagne
+2,emplacement,grece,rhodes,corinthe,thessalonique,argos,patras
+2,emplacement,france,roubaix,paris,bordeaux,grenoble
+1,activite,artisanat,sport,jeux,art
+2,activite,art,litterature,danse,cinema
+1,animal,reptile,mammifere,poisson,oiseau,insect
+2,animal,poisson,truite,saumon,requin,poisson-chat
+1,nourriture,desserts,patates,pates
+2,nourriture,desserts,gateau,ile flottante,compote,tarte
+2,nourriture,patates,patate sautee,pomme dauphine,patate douce,grattin dauphinois,puree

@@ -1,0 +1,11 @@
+0,animal,nourriture,date,activite,vehicule
+1,animal,reptile,mammifere,poisson,insect,oiseau
+2,animal,poisson,poisson-chat,sardine,requin,poisson-clown
+2,animal,insect,abeille,scarabee,criquet
+2,animal,oiseau,pie,vautour,cygne,chouette
+1,date,mars,octobre,decembre
+1,activite,artisanat,sport,entreprise,profession,jeux
+2,activite,artisanat,verrerie,charpenterie,plomberie
+2,activite,entreprise,team-leading,start-up,intraprenariat
+2,activite,jeux,jeux video,laser game,casino,jeux exterieurs
+1,vehicule,train,fusee,bateau,velo

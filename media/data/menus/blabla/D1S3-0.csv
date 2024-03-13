@@ -1,0 +1,9 @@
+0,animal,emplacement,activite,nourriture,date,vehicule
+1,animal,reptile,oiseau,mammifere,insect
+2,animal,reptile,lezard,geiko,alligator,dragon
+2,animal,insect,abeille,bousier,mante-religieuse
+1,activite,sport,jeux,art
+2,activite,sport,badminton,judo,tennis
+1,nourriture,legumes,fastfood,desserts,fruit
+2,nourriture,fastfood,pizza,nugget,sushis,burritos,kebab
+2,nourriture,desserts,milkshake,compote,tarte,glace,yahourt

@@ -1,0 +1,11 @@
+0,vehicule,animal,nourriture,emplacement,date,activite
+1,vehicule,train,voiture,fusee,velo
+2,vehicule,train,locomotive,wagon,draisine
+2,vehicule,voiture,voiturette,renault,toyota,4x4
+2,vehicule,velo,vtt,velo-electrique,bicyclette,monocycle
+1,animal,reptile,mammifere,oiseau,poisson
+2,animal,mammifere,chien,ours,kangourou
+2,animal,oiseau,aigle,corbeau,chouette
+2,animal,poisson,saumon,poisson-clown,poisson-chat,carpe,truite
+1,emplacement,belgique,usa,france,angleterre
+2,emplacement,usa,new york,san fransico,miami

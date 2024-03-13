@@ -1,0 +1,13 @@
+0,emplacement,date,animal,nourriture,vehicule,activite
+1,emplacement,espagne,france,usa,grece,italie
+2,emplacement,france,bordeaux,tourcoing,lille,roubaix,toulouse
+2,emplacement,usa,miami,new york,los angeles
+2,emplacement,grece,patras,argos,thessalonique,heraklion,athenes
+2,emplacement,italie,venise,bologne,florence,pompei
+1,animal,mammifere,insect,oiseau,reptile
+2,animal,mammifere,ours,chat,kangourou,humain,chien
+2,animal,insect,fourmi,scarabee,criquet,mante-religieuse,bousier
+2,animal,oiseau,pigeon,cygne,chouette,aigle
+1,nourriture,pates,boissons,legumes,patates
+2,nourriture,pates,lasagne,farfalle,tagliatelle,linguinie
+2,nourriture,boissons,vin,the glacee,eau,the,biere

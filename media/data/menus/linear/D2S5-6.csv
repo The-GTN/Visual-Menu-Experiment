@@ -1,0 +1,14 @@
+0,vehicule,animal,emplacement,activite,date,nourriture
+1,animal,insect,mammifere,oiseau,reptile
+2,animal,reptile,lezard,crocodile,geiko,alligator,serpent
+1,emplacement,grece,angleterre,usa,france
+2,emplacement,grece,rhodes,athenes,thessalonique,heraklion
+2,emplacement,angleterre,liverpool,oxford,brighton,manchester,bristol
+2,emplacement,usa,san fransico,las vegas,los angeles,new york,houston
+2,emplacement,france,tourcoing,lille,grenoble,toulouse
+1,date,decembre,septembre,fevrier,avril
+2,date,decembre,noel,16/12,01/12
+2,date,avril,01/04,30/04,11/04
+1,nourriture,fastfood,boissons,pates,desserts,legumes
+2,nourriture,boissons,vin,jus de fruits,soda,the,cafe
+2,nourriture,pates,linguinie,coquillette,tagliatelle,spaghetti

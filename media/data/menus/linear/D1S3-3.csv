@@ -1,0 +1,8 @@
+0,nourriture,date,vehicule,activite,animal,emplacement
+1,nourriture,patates,legumes,fruit,pates
+2,nourriture,patates,pomme dauphine,gnocchis,grattin dauphinois,frite,puree
+2,nourriture,legumes,poivron,carotte,courgette,aubergine,champignon
+1,activite,art,profession,sport
+2,activite,art,cinema,bande-dessinee,theatre,sculpture,peinture
+2,activite,profession,medecin,fleuriste,pompier,boucher
+1,animal,insect,mammifere,oiseau

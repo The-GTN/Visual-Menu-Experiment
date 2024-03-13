@@ -1,0 +1,13 @@
+0,activite,animal,date,emplacement,vehicule,nourriture
+1,animal,insect,oiseau,reptile,poisson,mammifere
+2,animal,oiseau,pie,aigle,cygne
+1,emplacement,belgique,angleterre,italie,france
+2,emplacement,angleterre,liverpool,londres,bristol,oxford,leeds
+2,emplacement,italie,florence,rome,parme
+1,vehicule,voiture,fusee,train,bateau,velo
+2,vehicule,voiture,ferrari,voiturette,honda,renault
+2,vehicule,fusee,ISS,rocket,OVNI,spatial-tesla,vaisseau-spatial
+2,vehicule,train,draisine,rer,metro,sncf
+2,vehicule,velo,moto,bicyclette,vtt,velo-electrique
+1,nourriture,boissons,fruit,pates,desserts
+2,nourriture,desserts,gateau,glace,yahourt,compote,ile flottante

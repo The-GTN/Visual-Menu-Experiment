@@ -1,0 +1,13 @@
+0,nourriture,emplacement,date,vehicule,activite,animal
+1,nourriture,pates,legumes,fruit,patates
+2,nourriture,legumes,courgette,champignon,poireau
+2,nourriture,fruit,pomme,peche,mangue,orange,banane
+1,emplacement,france,espagne,angleterre,usa,grece
+2,emplacement,espagne,seville,valence,barcelone,bilbao,grenade
+2,emplacement,usa,las vegas,los angeles,san fransico,washington,houston
+1,date,janvier,decembre,septembre
+2,date,decembre,reveillon,10/12,02/12,noel
+2,date,septembre,20/09,07/09,01/09,13/09
+1,animal,mammifere,oiseau,reptile,poisson
+2,animal,mammifere,humain,chat,vache,ours
+2,animal,poisson,truite,requin,saumon,carpe

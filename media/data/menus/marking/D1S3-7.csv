@@ -1,0 +1,14 @@
+0,vehicule,animal,emplacement,nourriture,activite,date
+1,vehicule,voiture,bateau,velo,train
+2,vehicule,bateau,yacht,jetski,voilier,paquebot,pedalo
+2,vehicule,velo,monocycle,tricycle,bicyclette,moto,trotinette
+2,vehicule,train,metro,rer,locomotive
+1,emplacement,grece,angleterre,belgique,france
+1,nourriture,fastfood,desserts,pates,patates
+2,nourriture,fastfood,pizza,tacos,burritos,kebab,sushis
+1,activite,jeux,entreprise,sport,artisanat
+2,activite,jeux,jeux de plateaux,laser game,jeux exterieurs,casino
+2,activite,entreprise,gestion de projet,team-leading,management,entreprenariat,co-working
+2,activite,sport,tennis,natation,musculation
+1,date,septembre,janvier,avril
+2,date,avril,18/04,11/04,01/04,paque

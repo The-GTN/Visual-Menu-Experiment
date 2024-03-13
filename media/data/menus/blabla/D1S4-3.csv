@@ -1,0 +1,13 @@
+0,vehicule,activite,nourriture,date,animal,emplacement
+1,vehicule,voiture,avion,fusee,bateau
+2,vehicule,avion,mongolfiere,avion-de-tourisme,helico,jet-prive
+2,vehicule,bateau,voilier,chalutier,paquebot
+1,activite,sport,entreprise,jeux,art
+2,activite,sport,tennis,musculation,course,patinage
+2,activite,art,peinture,sculpture,theatre,cinema
+1,date,octobre,fevrier,avril,mars
+2,date,fevrier,st valentin,05/02,10/02
+2,date,avril,01/04,11/04,18/04,30/04,12/04
+1,animal,mammifere,oiseau,reptile
+2,animal,oiseau,aigle,cygne,pigeon,vautour,pie
+2,animal,reptile,serpent,crocodile,alligator

@@ -1,0 +1,19 @@
+0,animal,date,vehicule,emplacement,activite,nourriture
+1,animal,reptile,poisson,insect,mammifere
+2,animal,reptile,serpent,iguane,lezard,dragon,alligator
+2,animal,mammifere,vache,kangourou,chien,ours,furet
+1,date,mars,decembre,avril,octobre
+2,date,decembre,10/12,16/12,01/12,02/12,reveillon
+2,date,avril,18/04,30/04,paque,01/04
+1,vehicule,train,avion,bateau,voiture
+2,vehicule,train,tram,wagon,rer,sncf
+2,vehicule,avion,helico,jet-prive,mongolfiere
+2,vehicule,bateau,jetski,pedalo,paquebot,voilier,yacht
+1,emplacement,belgique,france,espagne,usa
+2,emplacement,belgique,namur,bruges,menin,liege
+2,emplacement,espagne,seville,madrid,grenade
+2,emplacement,usa,washington,houston,miami
+1,activite,art,jeux,entreprise,sport
+2,activite,jeux,laser game,casino,jeux de plateaux,jeux video
+2,activite,entreprise,entreprenariat,gestion de projet,management
+2,activite,sport,natation,judo,badminton,patinage

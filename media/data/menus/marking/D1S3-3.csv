@@ -1,0 +1,16 @@
+0,activite,nourriture,vehicule,date,animal,emplacement
+1,activite,sport,entreprise,artisanat
+2,activite,sport,course,tennis,badminton
+2,activite,artisanat,forgerie,electricite,plomberie,verrerie,charpenterie
+1,nourriture,fastfood,pates,patates,fruit
+2,nourriture,pates,lasagne,penne,coquillette,farfalle
+2,nourriture,fruit,ananas,pomme,orange,peche,banane
+1,vehicule,bateau,avion,voiture,velo
+2,vehicule,bateau,voilier,pedalo,paquebot
+2,vehicule,voiture,renault,4x4,toyota,lamborghini
+2,vehicule,velo,moto,bicyclette,vtt,monocycle,trotinette
+1,date,janvier,mars,decembre
+2,date,janvier,02/01,30/01,15/01
+1,emplacement,espagne,italie,france,belgique
+2,emplacement,france,paris,tourcoing,bordeaux,roubaix,grenoble
+2,emplacement,belgique,bruges,charleroi,bruxelles,menin

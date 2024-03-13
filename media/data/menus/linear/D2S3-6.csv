@@ -1,0 +1,16 @@
+0,animal,emplacement,vehicule,nourriture,activite,date
+1,animal,insect,reptile,poisson,mammifere
+2,animal,insect,mante-religieuse,abeille,fourmi
+2,animal,poisson,carpe,truite,requin,saumon,poisson-chat
+1,emplacement,angleterre,italie,belgique,france,espagne
+2,emplacement,italie,pompei,naples,venise,rome,florence
+2,emplacement,france,bordeaux,toulouse,lille,tourcoing,grenoble
+1,nourriture,pates,desserts,fastfood,fruit
+2,nourriture,pates,linguinie,farfalle,spaghetti,lasagne
+2,nourriture,desserts,milkshake,gateau,tarte
+1,activite,profession,jeux,art
+2,activite,art,musique,gravure,theatre,cinema,litterature
+1,date,avril,decembre,fevrier,septembre
+2,date,avril,12/04,30/04,11/04
+2,date,fevrier,07/02,10/02,01/02,st valentin
+2,date,septembre,07/09,01/09,20/09

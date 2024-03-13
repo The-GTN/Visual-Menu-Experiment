@@ -1,0 +1,13 @@
+0,nourriture,animal,emplacement,date
+1,animal,oiseau,insect,reptile,poisson
+2,animal,oiseau,cygne,vautour,pigeon,corbeau
+2,animal,insect,moustique,mante-religieuse,fourmi,scarabee,criquet
+2,animal,reptile,lezard,serpent,crocodile
+1,emplacement,france,usa,belgique,italie
+2,emplacement,france,paris,bordeaux,roubaix,lille
+2,emplacement,usa,houston,las vegas,miami,san fransico,los angeles
+2,emplacement,belgique,bruges,liege,bruxelles,menin
+1,date,octobre,fevrier,janvier,decembre
+2,date,octobre,11/10,halloween,30/10,15/10
+2,date,fevrier,st valentin,22/02,20/02,01/02
+2,date,janvier,02/01,28/01,nouvel an,20/01

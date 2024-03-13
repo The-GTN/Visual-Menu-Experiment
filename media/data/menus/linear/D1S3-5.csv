@@ -1,0 +1,12 @@
+0,animal,vehicule,date,nourriture,emplacement,activite
+1,vehicule,bateau,avion,velo,voiture
+2,vehicule,avion,jet-prive,avion-de-tourisme,avion-de-chasse,jet-pack
+1,date,septembre,avril,octobre,mars
+2,date,avril,01/04,paque,12/04
+2,date,mars,st patrick,10/03,30/03,07/03
+1,nourriture,pates,desserts,fastfood,fruit
+2,nourriture,desserts,compote,ile flottante,glace,tarte,gateau
+1,emplacement,italie,angleterre,espagne,belgique
+2,emplacement,angleterre,bristol,manchester,liverpool,leeds
+2,emplacement,belgique,bruges,menin,liege,charleroi
+1,activite,artisanat,jeux,profession

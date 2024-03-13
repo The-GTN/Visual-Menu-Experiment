@@ -1,0 +1,11 @@
+0,vehicule,activite,nourriture,emplacement,animal,date
+1,activite,entreprise,profession,jeux
+2,activite,jeux,jeux video,casino,laser game
+1,nourriture,fruit,patates,boissons,pates,desserts
+2,nourriture,boissons,the,eau,the glacee,chocolat chaud
+2,nourriture,pates,farfalle,lasagne,coquillette,linguinie
+1,emplacement,grece,france,espagne,usa
+2,emplacement,grece,thessalonique,heraklion,athenes
+2,emplacement,france,toulouse,grenoble,lille,paris
+1,date,avril,mars,decembre,septembre,octobre
+2,date,avril,13/04,30/04,12/04,01/04,11/04

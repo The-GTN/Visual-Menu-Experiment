@@ -1,0 +1,16 @@
+0,emplacement,nourriture,vehicule,animal,activite,date
+1,emplacement,italie,espagne,grece,usa,belgique
+2,emplacement,espagne,seville,madrid,grenade
+2,emplacement,belgique,menin,namur,bruxelles,charleroi,liege
+1,nourriture,desserts,patates,boissons,legumes
+2,nourriture,patates,patate sautee,frite,patate douce
+2,nourriture,boissons,soda,jus de fruits,chocolat chaud,the,vin
+1,vehicule,train,voiture,bateau,avion
+2,vehicule,train,rer,wagon,locomotive,tram
+1,activite,profession,artisanat,entreprise,sport,art
+2,activite,entreprise,management,team-leading,start-up
+2,activite,art,danse,theatre,gravure
+1,date,janvier,decembre,avril,septembre
+2,date,janvier,15/01,20/01,30/01,galette des rois,nouvel an
+2,date,decembre,reveillon,02/12,08/12
+2,date,avril,13/04,18/04,12/04

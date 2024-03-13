@@ -1,0 +1,15 @@
+0,emplacement,animal,date,activite,vehicule,nourriture
+1,emplacement,italie,grece,usa,france
+2,emplacement,italie,naples,rome,florence,bologne,turin
+2,emplacement,usa,san fransico,las vegas,washington
+1,animal,insect,poisson,reptile,oiseau
+2,animal,insect,moustique,scarabee,mante-religieuse
+2,animal,poisson,saumon,poisson-clown,requin,sardine
+1,date,octobre,janvier,decembre,mars
+2,date,octobre,20/10,5/10,30/10,11/10,01/10
+1,activite,entreprise,profession,artisanat,jeux,sport
+2,activite,entreprise,management,entreprenariat,team-leading,intraprenariat,co-working
+2,activite,profession,boucher,astronaute,fleuriste,medecin
+1,nourriture,boissons,fastfood,desserts,patates
+2,nourriture,desserts,glace,compote,tarte,yahourt,gateau
+2,nourriture,patates,pomme dauphine,gnocchis,patate douce

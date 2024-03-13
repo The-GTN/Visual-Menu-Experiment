@@ -1,0 +1,9 @@
+0,vehicule,date,activite,emplacement,animal,nourriture
+1,activite,art,entreprise,profession,artisanat
+2,activite,profession,boucher,fleuriste,boulanger,professeur,medecin
+1,emplacement,grece,belgique,espagne
+1,nourriture,pates,legumes,fruit,fastfood
+2,nourriture,pates,tagliatelle,coquillette,farfalle,linguinie,lasagne
+2,nourriture,legumes,champignon,poireau,carotte,poivron,courgette
+2,nourriture,fruit,ananas,fraise,banane,orange
+2,nourriture,fastfood,nugget,kebab,sushis,pizza

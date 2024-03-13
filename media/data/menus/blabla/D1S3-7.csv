@@ -1,0 +1,12 @@
+0,vehicule,nourriture,activite,animal,date,emplacement
+1,vehicule,fusee,bateau,avion
+2,vehicule,fusee,rocket,vaisseau-spatial,OVNI,spatial-tesla,apollo13
+1,nourriture,desserts,boissons,patates
+2,nourriture,desserts,glace,gateau,tarte,milkshake
+1,animal,reptile,oiseau,insect
+2,animal,insect,bousier,mante-religieuse,moustique,fourmi,abeille
+1,date,septembre,octobre,janvier,decembre
+2,date,decembre,08/12,02/12,reveillon
+1,emplacement,grece,italie,angleterre,espagne,france
+2,emplacement,angleterre,leeds,liverpool,londres,oxford,brighton
+2,emplacement,france,paris,toulouse,grenoble

@@ -1,0 +1,20 @@
+0,date,activite,nourriture,animal,vehicule,emplacement
+1,date,decembre,mars,avril,janvier
+2,date,decembre,02/12,16/12,reveillon
+2,date,mars,10/03,21/03,22/03,20/03,st patrick
+2,date,janvier,02/01,20/01,galette des rois
+1,nourriture,desserts,fruit,boissons,pates
+2,nourriture,desserts,gateau,yahourt,milkshake
+2,nourriture,boissons,cafe,the,biere,vin
+2,nourriture,pates,spaghetti,lasagne,linguinie
+1,animal,poisson,insect,mammifere,oiseau
+2,animal,poisson,truite,sardine,requin,poisson-chat,saumon
+2,animal,insect,fourmi,scarabee,mante-religieuse,abeille
+2,animal,mammifere,kangourou,ours,chat
+2,animal,oiseau,vautour,pie,cygne,chouette,pigeon
+1,vehicule,avion,fusee,bateau,velo
+2,vehicule,avion,avion-de-chasse,jet-pack,helico,jet-prive,mongolfiere
+2,vehicule,bateau,pedalo,jetski,yacht
+1,emplacement,belgique,grece,italie,espagne
+2,emplacement,belgique,bruges,mouscrons,menin,bruxelles
+2,emplacement,espagne,barcelone,grenade,bilbao,valence

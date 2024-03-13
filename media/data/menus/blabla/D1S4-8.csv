@@ -1,0 +1,11 @@
+0,date,vehicule,emplacement,activite,animal,nourriture
+1,vehicule,velo,avion,bateau,train
+2,vehicule,velo,monocycle,moto,trotinette
+2,vehicule,avion,jet-pack,avion-de-tourisme,mongolfiere,jet-prive,helico
+2,vehicule,bateau,pedalo,paquebot,yacht,chalutier
+2,vehicule,train,metro,rer,draisine,locomotive,wagon
+1,activite,jeux,sport,entreprise,artisanat,art
+2,activite,art,danse,peinture,theatre
+1,animal,mammifere,insect,oiseau
+1,nourriture,desserts,legumes,fastfood,patates
+2,nourriture,fastfood,burritos,sushis,kebab,nugget

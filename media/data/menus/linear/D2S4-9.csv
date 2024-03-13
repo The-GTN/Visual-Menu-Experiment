@@ -1,0 +1,12 @@
+0,emplacement,activite,vehicule,nourriture,date,animal
+1,activite,artisanat,profession,sport,jeux
+2,activite,sport,tennis,course,badminton,judo
+1,date,octobre,decembre,septembre,mars
+2,date,octobre,20/10,15/10,30/10,11/10
+2,date,decembre,16/12,noel,02/12,08/12,10/12
+2,date,septembre,10/09,20/09,13/09,15/09,01/09
+2,date,mars,20/03,21/03,10/03,st patrick
+1,animal,mammifere,oiseau,insect,poisson
+2,animal,oiseau,corbeau,aigle,vautour,pigeon
+2,animal,insect,criquet,abeille,mante-religieuse,scarabee,fourmi
+2,animal,poisson,requin,poisson-chat,saumon

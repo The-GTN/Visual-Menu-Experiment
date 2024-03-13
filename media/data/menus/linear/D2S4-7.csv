@@ -1,0 +1,13 @@
+0,vehicule,emplacement,animal,date,nourriture,activite
+1,vehicule,bateau,velo,avion
+1,emplacement,usa,france,grece,angleterre
+2,emplacement,france,paris,roubaix,lille
+2,emplacement,grece,rhodes,athenes,thessalonique,argos
+2,emplacement,angleterre,liverpool,brighton,manchester,londres
+1,date,mars,decembre,octobre,fevrier
+2,date,decembre,08/12,02/12,reveillon,01/12
+2,date,fevrier,10/02,05/02,20/02
+1,activite,profession,artisanat,entreprise,sport
+2,activite,profession,professeur,medecin,fleuriste
+2,activite,artisanat,bijouterie,forgerie,plomberie,verrerie
+2,activite,entreprise,intraprenariat,management,co-working

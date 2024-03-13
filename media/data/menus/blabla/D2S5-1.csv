@@ -1,0 +1,16 @@
+0,emplacement,animal,vehicule,nourriture,activite,date
+1,emplacement,italie,usa,angleterre,france
+2,emplacement,italie,naples,parme,milan,venise,florence
+2,emplacement,usa,houston,miami,los angeles,san fransico,las vegas
+2,emplacement,angleterre,leeds,bristol,oxford,londres
+2,emplacement,france,toulouse,roubaix,bordeaux
+1,vehicule,fusee,train,voiture
+2,vehicule,voiture,4x4,honda,voiturette
+1,nourriture,patates,desserts,pates,legumes
+2,nourriture,desserts,tarte,compote,gateau
+2,nourriture,legumes,carotte,poireau,poivron,tomate,courgette
+1,activite,art,sport,profession
+1,date,octobre,janvier,septembre,mars
+2,date,octobre,halloween,20/10,30/10,5/10,15/10
+2,date,janvier,30/01,28/01,20/01,15/01
+2,date,mars,21/03,22/03,10/03

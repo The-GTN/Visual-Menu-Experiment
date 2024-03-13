@@ -1,0 +1,17 @@
+0,emplacement,vehicule,activite,animal,nourriture,date
+1,emplacement,espagne,france,belgique,grece
+2,emplacement,espagne,madrid,grenade,seville,valence
+2,emplacement,france,toulouse,grenoble,tourcoing
+2,emplacement,belgique,liege,charleroi,mouscrons,menin,bruxelles
+2,emplacement,grece,thessalonique,argos,patras,athenes,heraklion
+1,vehicule,voiture,train,velo,bateau
+2,vehicule,train,draisine,metro,locomotive
+2,vehicule,velo,moto,bicyclette,tricycle,velo-electrique,trotinette
+1,activite,entreprise,art,sport
+1,animal,mammifere,oiseau,reptile,poisson,insect
+2,animal,oiseau,corbeau,chouette,vautour,aigle
+2,animal,poisson,poisson-clown,requin,carpe,sardine,truite
+1,nourriture,fruit,pates,fastfood,patates
+2,nourriture,pates,coquillette,linguinie,spaghetti,lasagne,farfalle
+2,nourriture,fastfood,burritos,kebab,nugget,tacos
+2,nourriture,patates,puree,frite,patate sautee,grattin dauphinois

@@ -1,0 +1,13 @@
+0,activite,nourriture,emplacement,animal,vehicule,date
+1,nourriture,desserts,patates,fastfood,boissons
+2,nourriture,patates,frite,grattin dauphinois,pomme dauphine
+2,nourriture,fastfood,burger,tacos,nugget,pizza
+2,nourriture,boissons,jus de fruits,chocolat chaud,the glacee,soda,cafe
+1,animal,poisson,reptile,mammifere,oiseau,insect
+2,animal,poisson,carpe,requin,saumon,truite,poisson-chat
+2,animal,reptile,dragon,geiko,alligator,lezard,iguane
+1,vehicule,velo,bateau,fusee,avion
+2,vehicule,avion,avion-de-chasse,jet-prive,mongolfiere,helico,jet-pack
+1,date,octobre,septembre,janvier,mars
+2,date,septembre,13/09,20/09,15/09
+2,date,mars,07/03,10/03,20/03,22/03,21/03

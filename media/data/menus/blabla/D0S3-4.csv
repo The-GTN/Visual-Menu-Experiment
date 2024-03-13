@@ -1,0 +1,8 @@
+0,vehicule,activite,date
+1,vehicule,velo,voiture,bateau,train
+2,vehicule,velo,vtt,moto,bicyclette
+2,vehicule,train,sncf,locomotive,draisine,tram,rer
+1,activite,jeux,artisanat,profession,sport
+2,activite,artisanat,forgerie,menuiserie,verrerie,bijouterie
+2,activite,profession,pompier,boucher,medecin
+2,activite,sport,natation,course,tennis,badminton,musculation

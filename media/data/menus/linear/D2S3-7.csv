@@ -1,0 +1,17 @@
+0,animal,nourriture,vehicule,emplacement,date,activite
+1,animal,insect,mammifere,poisson,reptile
+2,animal,insect,abeille,scarabee,criquet
+2,animal,mammifere,vache,humain,kangourou,chien
+1,nourriture,legumes,boissons,fastfood,pates
+2,nourriture,legumes,champignon,tomate,aubergine
+2,nourriture,fastfood,pizza,burger,sushis,tacos
+2,nourriture,pates,lasagne,linguinie,coquillette,spaghetti,penne
+1,emplacement,france,belgique,grece
+2,emplacement,grece,argos,athenes,heraklion,corinthe
+1,date,octobre,decembre,mars,fevrier,avril
+2,date,octobre,01/10,halloween,20/10
+2,date,mars,st patrick,30/03,22/03,20/03
+2,date,fevrier,20/02,01/02,10/02
+2,date,avril,30/04,11/04,18/04
+1,activite,profession,artisanat,art
+2,activite,art,sculpture,peinture,bande-dessinee,gravure,musique

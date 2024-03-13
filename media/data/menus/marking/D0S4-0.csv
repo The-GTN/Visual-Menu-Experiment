@@ -1,0 +1,7 @@
+0,nourriture,date,emplacement,activite
+1,date,septembre,decembre,fevrier,octobre
+2,date,septembre,07/09,01/09,10/09,25/09,20/09
+2,date,decembre,reveillon,08/12,02/12
+1,activite,jeux,artisanat,sport,entreprise
+2,activite,jeux,jeux exterieurs,jeux video,lotterie,casino
+2,activite,sport,natation,badminton,musculation

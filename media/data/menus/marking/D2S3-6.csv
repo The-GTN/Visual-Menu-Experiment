@@ -1,0 +1,19 @@
+0,vehicule,activite,date,nourriture,animal,emplacement
+1,vehicule,velo,bateau,train,avion
+2,vehicule,bateau,jetski,yacht,paquebot
+2,vehicule,avion,mongolfiere,avion-de-chasse,helico
+1,activite,jeux,profession,entreprise,sport
+2,activite,profession,medecin,fleuriste,pompier,boulanger
+2,activite,entreprise,management,start-up,co-working,intraprenariat
+1,nourriture,pates,patates,fruit,desserts
+2,nourriture,patates,patate douce,frite,patate sautee,pomme dauphine
+2,nourriture,fruit,banane,mangue,ananas
+2,nourriture,desserts,yahourt,ile flottante,compote,tarte
+1,animal,poisson,insect,oiseau,reptile
+2,animal,poisson,saumon,requin,carpe,poisson-clown
+2,animal,insect,fourmi,abeille,criquet,scarabee
+2,animal,oiseau,cygne,vautour,aigle,chouette
+2,animal,reptile,lezard,dragon,alligator
+1,emplacement,italie,belgique,angleterre,espagne
+2,emplacement,italie,naples,pompei,parme,bologne,turin
+2,emplacement,belgique,mouscrons,namur,bruges

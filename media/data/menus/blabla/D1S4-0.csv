@@ -1,0 +1,10 @@
+0,emplacement,animal,date,nourriture,activite,vehicule
+1,date,fevrier,mars,decembre
+1,nourriture,pates,fruit,boissons
+2,nourriture,pates,coquillette,lasagne,farfalle,linguinie,penne
+1,activite,art,artisanat,sport,profession
+2,activite,artisanat,charpenterie,bijouterie,plomberie,forgerie,electricite
+2,activite,profession,fleuriste,boucher,astronaute
+1,vehicule,velo,voiture,bateau,fusee,avion
+2,vehicule,voiture,voiturette,4x4,ferrari,honda,renault
+2,vehicule,avion,avion-de-tourisme,jet-pack,mongolfiere,helico,avion-de-chasse

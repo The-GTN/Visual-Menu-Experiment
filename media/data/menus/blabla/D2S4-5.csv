@@ -1,0 +1,15 @@
+0,date,nourriture,emplacement,activite,animal,vehicule
+1,nourriture,boissons,patates,pates,legumes
+2,nourriture,boissons,biere,vin,cafe
+2,nourriture,patates,gnocchis,patate sautee,frite,patate douce,puree
+1,emplacement,grece,italie,angleterre,usa,espagne
+2,emplacement,italie,turin,bologne,rome,milan,venise
+1,animal,oiseau,mammifere,poisson,insect
+2,animal,oiseau,pigeon,cygne,aigle
+2,animal,mammifere,humain,chien,chat,furet,vache
+2,animal,poisson,poisson-clown,saumon,poisson-chat,requin
+2,animal,insect,abeille,moustique,scarabee
+1,vehicule,train,velo,fusee,voiture
+2,vehicule,train,locomotive,rer,draisine,sncf
+2,vehicule,velo,velo-electrique,vtt,tricycle,bicyclette
+2,vehicule,voiture,ferrari,renault,toyota,lamborghini

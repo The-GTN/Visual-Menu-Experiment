@@ -1,0 +1,13 @@
+0,vehicule,nourriture,activite,date,emplacement,animal
+1,date,fevrier,janvier,septembre,octobre
+2,date,fevrier,10/02,01/02,05/02,20/02
+2,date,janvier,02/01,nouvel an,15/01,20/01
+2,date,octobre,30/10,20/10,5/10,11/10
+1,emplacement,usa,belgique,italie,france
+2,emplacement,usa,los angeles,houston,las vegas,miami
+2,emplacement,belgique,menin,mouscrons,bruges
+2,emplacement,italie,bologne,milan,venise,pompei,parme
+1,animal,mammifere,insect,oiseau,reptile
+2,animal,insect,scarabee,abeille,bousier,criquet,moustique
+2,animal,oiseau,corbeau,cygne,chouette
+2,animal,reptile,dragon,lezard,serpent,geiko

@@ -1,0 +1,15 @@
+0,animal,activite,nourriture,vehicule,date
+1,animal,reptile,mammifere,poisson,insect
+2,animal,mammifere,kangourou,vache,ours
+2,animal,insect,abeille,criquet,bousier,moustique
+1,activite,jeux,profession,entreprise,artisanat
+2,activite,profession,boucher,astronaute,professeur,pompier,medecin
+2,activite,entreprise,intraprenariat,co-working,start-up,entreprenariat,team-leading
+2,activite,artisanat,bijouterie,menuiserie,plomberie,verrerie,forgerie
+1,nourriture,desserts,boissons,pates,fruit
+2,nourriture,desserts,compote,yahourt,milkshake,ile flottante,tarte
+2,nourriture,boissons,biere,soda,vin
+2,nourriture,pates,tagliatelle,farfalle,spaghetti,linguinie,lasagne
+2,nourriture,fruit,ananas,orange,mangue,pomme,banane
+1,date,septembre,decembre,fevrier,octobre
+2,date,fevrier,05/02,01/02,07/02

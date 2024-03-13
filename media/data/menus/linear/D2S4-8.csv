@@ -1,0 +1,15 @@
+0,date,vehicule,nourriture,animal,emplacement,activite
+1,vehicule,velo,bateau,train,voiture,avion
+2,vehicule,bateau,chalutier,pedalo,voilier,jetski
+2,vehicule,train,locomotive,sncf,rer,wagon,metro
+1,nourriture,fruit,pates,boissons,patates
+2,nourriture,fruit,banane,orange,pomme,mangue,ananas
+2,nourriture,pates,linguinie,spaghetti,tagliatelle
+1,animal,oiseau,insect,mammifere,poisson
+2,animal,oiseau,pigeon,vautour,cygne,pie
+2,animal,mammifere,ours,humain,kangourou,chat
+1,emplacement,angleterre,espagne,france
+2,emplacement,angleterre,bristol,brighton,liverpool,oxford
+1,activite,jeux,sport,profession,artisanat,entreprise
+2,activite,jeux,casino,jeux de plateaux,lotterie,jeux video,jeux exterieurs
+2,activite,entreprise,entreprenariat,gestion de projet,intraprenariat,start-up,co-working

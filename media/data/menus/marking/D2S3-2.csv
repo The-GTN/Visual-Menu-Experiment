@@ -1,0 +1,17 @@
+0,emplacement,nourriture,animal,activite,date,vehicule
+1,emplacement,italie,usa,belgique,angleterre
+2,emplacement,italie,parme,pompei,naples
+2,emplacement,usa,new york,los angeles,washington
+1,nourriture,fastfood,legumes,patates,desserts
+2,nourriture,legumes,poivron,champignon,poireau,tomate
+1,animal,mammifere,insect,poisson
+2,animal,mammifere,chien,kangourou,ours,furet,humain
+1,activite,artisanat,profession,sport,entreprise
+2,activite,profession,pompier,boucher,astronaute,professeur,boulanger
+2,activite,sport,musculation,judo,patinage
+1,date,septembre,octobre,avril
+2,date,septembre,07/09,13/09,01/09,25/09,15/09
+2,date,avril,paque,13/04,11/04,01/04,18/04
+1,vehicule,voiture,avion,train,velo
+2,vehicule,avion,helico,avion-de-chasse,jet-pack
+2,vehicule,train,wagon,metro,sncf

@@ -1,0 +1,12 @@
+0,animal,emplacement,activite,vehicule,date
+1,animal,poisson,insect,oiseau,reptile
+2,animal,insect,abeille,fourmi,bousier
+2,animal,reptile,iguane,alligator,dragon,lezard,crocodile
+1,vehicule,train,velo,bateau,fusee
+2,vehicule,train,locomotive,draisine,tram,sncf
+2,vehicule,velo,vtt,trotinette,tricycle
+2,vehicule,fusee,ISS,spatial-tesla,vaisseau-spatial,ariane
+1,date,janvier,fevrier,septembre,decembre,octobre
+2,date,janvier,15/01,28/01,nouvel an
+2,date,septembre,15/09,01/09,07/09,20/09
+2,date,octobre,20/10,11/10,5/10,01/10,30/10

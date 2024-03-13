@@ -1,0 +1,8 @@
+0,date,vehicule,activite,nourriture,emplacement
+1,vehicule,avion,voiture,train,velo
+2,vehicule,avion,avion-de-chasse,avion-de-tourisme,mongolfiere
+2,vehicule,velo,monocycle,tricycle,velo-electrique,moto
+1,emplacement,grece,italie,belgique,espagne
+2,emplacement,grece,athenes,heraklion,argos
+2,emplacement,belgique,charleroi,menin,liege,namur,bruxelles
+2,emplacement,espagne,grenade,seville,barcelone

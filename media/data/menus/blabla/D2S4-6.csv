@@ -1,0 +1,16 @@
+0,date,vehicule,animal,nourriture,activite,emplacement
+1,date,octobre,mars,septembre,avril
+2,date,septembre,25/09,10/09,15/09
+2,date,avril,30/04,18/04,12/04,01/04,13/04
+1,vehicule,bateau,train,avion,fusee
+2,vehicule,train,wagon,sncf,rer,tram,metro
+2,vehicule,avion,avion-de-chasse,jet-prive,avion-de-tourisme,jet-pack,mongolfiere
+2,vehicule,fusee,spatial-tesla,rocket,ariane,ISS,vaisseau-spatial
+1,animal,oiseau,reptile,insect,mammifere,poisson
+2,animal,oiseau,chouette,cygne,pie,pigeon,aigle
+1,nourriture,legumes,patates,pates,fruit
+2,nourriture,legumes,poireau,carotte,tomate
+2,nourriture,patates,pomme dauphine,puree,patate sautee,patate douce
+1,emplacement,angleterre,usa,grece,italie
+2,emplacement,usa,washington,new york,miami,san fransico
+2,emplacement,grece,athenes,argos,corinthe,rhodes,patras

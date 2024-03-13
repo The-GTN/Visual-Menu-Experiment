@@ -1,0 +1,12 @@
+0,emplacement,vehicule,animal,date,activite
+1,emplacement,grece,italie,france,usa
+2,emplacement,grece,athenes,corinthe,heraklion,rhodes,argos
+2,emplacement,italie,parme,milan,florence,rome
+2,emplacement,france,tourcoing,toulouse,lille
+1,vehicule,train,avion,voiture,bateau,velo
+2,vehicule,avion,mongolfiere,avion-de-tourisme,avion-de-chasse
+1,animal,reptile,insect,mammifere,oiseau
+2,animal,reptile,geiko,serpent,iguane,lezard,dragon
+2,animal,mammifere,furet,chien,kangourou,chat
+2,animal,oiseau,chouette,pigeon,vautour,corbeau
+1,date,janvier,avril,fevrier

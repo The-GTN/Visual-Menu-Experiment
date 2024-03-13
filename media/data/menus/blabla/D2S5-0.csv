@@ -1,0 +1,11 @@
+0,vehicule,activite,animal,date,nourriture,emplacement
+1,activite,jeux,artisanat,art,entreprise
+2,activite,artisanat,charpenterie,electricite,menuiserie,plomberie,bijouterie
+2,activite,entreprise,start-up,team-leading,entreprenariat,gestion de projet
+1,date,avril,mars,fevrier
+1,nourriture,pates,boissons,fruit,patates
+2,nourriture,patates,patate sautee,gnocchis,frite,pomme dauphine,puree
+1,emplacement,italie,espagne,grece,usa
+2,emplacement,italie,naples,bologne,parme,florence
+2,emplacement,espagne,barcelone,valence,seville,grenade,bilbao
+2,emplacement,grece,athenes,thessalonique,patras,rhodes

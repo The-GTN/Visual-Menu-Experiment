@@ -1,0 +1,13 @@
+0,date,vehicule,emplacement,activite,nourriture,animal
+1,date,septembre,avril,janvier,mars
+2,date,septembre,10/09,13/09,15/09,07/09
+2,date,janvier,28/01,15/01,30/01
+2,date,mars,21/03,07/03,30/03,20/03
+1,vehicule,voiture,avion,bateau,velo
+2,vehicule,voiture,renault,lamborghini,honda,voiturette
+2,vehicule,bateau,paquebot,chalutier,yacht,jetski
+1,emplacement,espagne,grece,italie,usa
+2,emplacement,grece,thessalonique,patras,corinthe,rhodes
+2,emplacement,italie,florence,naples,milan
+1,animal,oiseau,poisson,insect,mammifere
+2,animal,oiseau,pigeon,corbeau,aigle

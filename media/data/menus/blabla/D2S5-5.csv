@@ -1,0 +1,11 @@
+0,emplacement,animal,activite,nourriture,date,vehicule
+1,animal,oiseau,reptile,mammifere,insect
+2,animal,oiseau,pie,vautour,chouette,corbeau,pigeon
+2,animal,reptile,crocodile,alligator,lezard
+2,animal,insect,bousier,mante-religieuse,criquet
+1,nourriture,fruit,fastfood,patates,desserts
+2,nourriture,fruit,fraise,orange,banane,mangue
+2,nourriture,patates,pomme dauphine,gnocchis,patate douce
+1,date,octobre,avril,janvier,mars
+2,date,janvier,galette des rois,30/01,15/01
+2,date,mars,30/03,20/03,22/03,st patrick,21/03

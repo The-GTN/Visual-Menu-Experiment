@@ -1,0 +1,8 @@
+0,date,animal,nourriture
+1,date,octobre,fevrier,septembre,decembre
+2,date,octobre,01/10,5/10,30/10,11/10,halloween
+2,date,fevrier,22/02,10/02,01/02,st valentin
+2,date,decembre,10/12,08/12,01/12
+1,nourriture,boissons,legumes,pates
+2,nourriture,boissons,the,soda,jus de fruits,chocolat chaud
+2,nourriture,pates,tagliatelle,penne,linguinie,farfalle,spaghetti

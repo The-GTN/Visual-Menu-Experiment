@@ -1,0 +1,15 @@
+0,date,nourriture,vehicule,animal,activite,emplacement
+1,vehicule,avion,train,velo,voiture,bateau
+2,vehicule,avion,avion-de-chasse,jet-prive,helico,avion-de-tourisme
+2,vehicule,train,rer,tram,wagon,locomotive
+2,vehicule,voiture,renault,lamborghini,ferrari,honda
+1,animal,reptile,poisson,mammifere,insect
+2,animal,reptile,crocodile,serpent,lezard
+2,animal,poisson,truite,sardine,carpe,saumon,poisson-chat
+2,animal,mammifere,vache,chat,ours,chien
+2,animal,insect,abeille,moustique,criquet,bousier,scarabee
+1,activite,profession,art,sport
+2,activite,art,gravure,bande-dessinee,theatre
+1,emplacement,grece,espagne,italie,belgique
+2,emplacement,espagne,barcelone,grenade,madrid,seville
+2,emplacement,italie,florence,bologne,turin,venise

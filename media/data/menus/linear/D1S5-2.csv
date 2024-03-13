@@ -1,0 +1,14 @@
+0,animal,emplacement,vehicule,date,activite,nourriture
+1,animal,mammifere,poisson,insect,oiseau,reptile
+2,animal,insect,moustique,bousier,mante-religieuse,fourmi,abeille
+1,emplacement,france,espagne,italie,belgique,grece
+2,emplacement,espagne,valence,grenade,barcelone
+2,emplacement,italie,milan,venise,turin,florence,naples
+2,emplacement,belgique,namur,menin,liege
+1,activite,profession,jeux,artisanat,sport
+2,activite,profession,astronaute,boulanger,pompier,medecin,fleuriste
+2,activite,artisanat,electricite,bijouterie,verrerie
+2,activite,sport,judo,patinage,musculation,badminton
+1,nourriture,pates,fruit,boissons,fastfood,desserts
+2,nourriture,boissons,vin,the glacee,cafe,biere,the
+2,nourriture,fastfood,nugget,kebab,tacos

@@ -1,0 +1,15 @@
+0,nourriture,activite,vehicule,animal,emplacement,date
+1,nourriture,pates,fastfood,boissons,desserts,fruit
+2,nourriture,pates,spaghetti,coquillette,linguinie,penne,lasagne
+2,nourriture,fruit,banane,peche,mangue,pomme
+1,activite,entreprise,profession,artisanat,art,sport
+2,activite,artisanat,electricite,menuiserie,forgerie
+1,animal,mammifere,oiseau,reptile,insect
+2,animal,mammifere,furet,chat,humain
+2,animal,insect,abeille,fourmi,bousier,scarabee
+1,emplacement,france,usa,italie,espagne
+2,emplacement,usa,las vegas,new york,san fransico
+2,emplacement,italie,turin,pompei,rome
+2,emplacement,espagne,valence,bilbao,grenade,madrid
+1,date,janvier,septembre,decembre,avril,octobre
+2,date,janvier,02/01,28/01,nouvel an,15/01,galette des rois

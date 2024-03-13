@@ -1,0 +1,10 @@
+0,date,nourriture,activite,emplacement
+1,date,fevrier,octobre,avril,decembre
+2,date,fevrier,20/02,st valentin,01/02
+2,date,octobre,20/10,30/10,5/10
+2,date,avril,paque,12/04,11/04,30/04,01/04
+2,date,decembre,01/12,noel,reveillon,02/12,16/12
+1,nourriture,pates,desserts,legumes,boissons,patates
+2,nourriture,patates,patate douce,puree,pomme dauphine
+1,activite,art,profession,jeux,artisanat
+2,activite,art,litterature,gravure,theatre,danse

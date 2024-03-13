@@ -1,0 +1,13 @@
+0,nourriture,activite,animal,vehicule,emplacement,date
+1,nourriture,fruit,patates,legumes,fastfood,desserts
+1,animal,insect,oiseau,mammifere
+1,vehicule,avion,voiture,train,bateau
+2,vehicule,avion,jet-prive,helico,avion-de-chasse,avion-de-tourisme
+2,vehicule,bateau,yacht,jetski,chalutier
+1,emplacement,espagne,grece,usa,italie,angleterre
+2,emplacement,espagne,barcelone,seville,madrid,bilbao
+2,emplacement,grece,athenes,rhodes,corinthe
+1,date,mars,janvier,fevrier,decembre
+2,date,janvier,30/01,15/01,02/01,28/01,20/01
+2,date,fevrier,10/02,01/02,st valentin
+2,date,decembre,noel,reveillon,01/12,10/12

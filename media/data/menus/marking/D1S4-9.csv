@@ -1,0 +1,19 @@
+0,emplacement,vehicule,animal,date,nourriture,activite
+1,emplacement,france,grece,italie,belgique
+2,emplacement,italie,milan,florence,bologne
+2,emplacement,belgique,namur,bruges,bruxelles,menin,mouscrons
+1,vehicule,avion,bateau,velo,voiture
+2,vehicule,velo,velo-electrique,monocycle,bicyclette
+2,vehicule,voiture,toyota,honda,lamborghini
+1,animal,poisson,oiseau,reptile,mammifere
+2,animal,poisson,poisson-clown,saumon,poisson-chat
+2,animal,oiseau,pie,aigle,vautour,cygne,pigeon
+2,animal,reptile,crocodile,alligator,iguane,serpent
+1,date,mars,fevrier,avril,janvier
+2,date,fevrier,st valentin,10/02,05/02,01/02
+1,nourriture,fastfood,boissons,fruit,pates
+2,nourriture,fastfood,burritos,sushis,burger,nugget
+2,nourriture,boissons,jus de fruits,vin,chocolat chaud,the
+1,activite,artisanat,jeux,art,profession
+2,activite,artisanat,menuiserie,verrerie,charpenterie,electricite,bijouterie
+2,activite,profession,fleuriste,boucher,boulanger,pompier,medecin

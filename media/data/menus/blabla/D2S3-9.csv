@@ -1,0 +1,9 @@
+0,emplacement,date,animal,nourriture,activite,vehicule
+1,animal,poisson,mammifere,oiseau,insect,reptile
+2,animal,poisson,sardine,poisson-chat,carpe
+1,nourriture,fruit,patates,desserts,fastfood
+2,nourriture,fruit,pomme,fraise,banane
+1,activite,art,jeux,sport,entreprise
+2,activite,art,danse,cinema,musique
+2,activite,sport,natation,tennis,judo,badminton,musculation
+2,activite,entreprise,team-leading,co-working,entreprenariat,management,gestion de projet

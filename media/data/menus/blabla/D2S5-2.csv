@@ -1,0 +1,21 @@
+0,activite,animal,vehicule,emplacement,date,nourriture
+1,activite,jeux,profession,art,entreprise
+2,activite,jeux,casino,jeux de plateaux,escape game
+2,activite,art,gravure,danse,sculpture,litterature
+2,activite,entreprise,entreprenariat,management,team-leading,gestion de projet,co-working
+1,animal,insect,reptile,mammifere,poisson
+2,animal,insect,mante-religieuse,fourmi,criquet
+2,animal,reptile,geiko,serpent,iguane
+2,animal,mammifere,ours,chat,chien
+1,vehicule,bateau,fusee,voiture,train,velo
+2,vehicule,bateau,voilier,yacht,pedalo,paquebot
+1,emplacement,usa,grece,italie,belgique
+2,emplacement,usa,los angeles,miami,washington,las vegas,san fransico
+1,date,janvier,octobre,avril,decembre
+2,date,octobre,5/10,11/10,01/10,30/10
+2,date,avril,paque,01/04,18/04,13/04
+2,date,decembre,10/12,01/12,16/12,noel,reveillon
+1,nourriture,patates,fruit,legumes,fastfood
+2,nourriture,patates,grattin dauphinois,patate douce,patate sautee
+2,nourriture,fruit,fraise,mangue,orange,banane,pomme
+2,nourriture,fastfood,burger,kebab,tacos,pizza,nugget

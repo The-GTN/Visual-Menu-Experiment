@@ -1,0 +1,14 @@
+0,date,activite,nourriture,emplacement,vehicule,animal
+1,emplacement,espagne,italie,grece,belgique,angleterre
+2,emplacement,espagne,seville,bilbao,grenade,barcelone
+2,emplacement,italie,florence,parme,venise,pompei,naples
+2,emplacement,angleterre,manchester,oxford,bristol
+1,vehicule,velo,train,bateau,avion
+2,vehicule,velo,monocycle,vtt,tricycle,moto,velo-electrique
+2,vehicule,train,wagon,draisine,locomotive
+2,vehicule,bateau,pedalo,paquebot,yacht,voilier,jetski
+2,vehicule,avion,mongolfiere,helico,avion-de-chasse,jet-prive
+1,animal,poisson,oiseau,mammifere,reptile
+2,animal,poisson,poisson-clown,poisson-chat,sardine,truite
+2,animal,mammifere,kangourou,humain,ours
+2,animal,reptile,alligator,crocodile,dragon,geiko,iguane

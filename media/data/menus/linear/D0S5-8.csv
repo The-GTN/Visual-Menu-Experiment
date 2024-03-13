@@ -1,0 +1,7 @@
+0,date,animal,emplacement,nourriture,vehicule
+1,emplacement,espagne,belgique,italie,grece
+2,emplacement,belgique,mouscrons,bruges,charleroi,namur,menin
+2,emplacement,italie,pompei,rome,milan
+2,emplacement,grece,patras,thessalonique,rhodes,corinthe,athenes
+1,nourriture,pates,boissons,fastfood
+2,nourriture,boissons,biere,vin,cafe,jus de fruits,chocolat chaud

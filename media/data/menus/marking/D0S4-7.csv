@@ -1,0 +1,8 @@
+0,vehicule,date,emplacement,activite
+1,date,decembre,mars,octobre,septembre
+2,date,mars,10/03,21/03,07/03,22/03
+2,date,octobre,5/10,15/10,30/10,01/10,20/10
+2,date,septembre,25/09,10/09,07/09
+1,activite,art,profession,artisanat,entreprise
+2,activite,artisanat,charpenterie,menuiserie,bijouterie,electricite,verrerie
+2,activite,entreprise,intraprenariat,management,gestion de projet,team-leading

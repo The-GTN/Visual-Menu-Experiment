@@ -1,0 +1,16 @@
+0,activite,date,animal,vehicule,emplacement,nourriture
+1,activite,artisanat,jeux,profession,entreprise
+2,activite,artisanat,forgerie,verrerie,charpenterie
+2,activite,jeux,jeux exterieurs,escape game,jeux de plateaux
+2,activite,profession,pompier,boucher,professeur
+2,activite,entreprise,intraprenariat,team-leading,entreprenariat,co-working,management
+1,date,mars,septembre,decembre,janvier
+2,date,decembre,02/12,01/12,10/12,noel,16/12
+1,animal,insect,oiseau,mammifere,reptile
+2,animal,mammifere,ours,furet,chien,vache,chat
+2,animal,reptile,lezard,crocodile,iguane,dragon,serpent
+1,vehicule,fusee,velo,avion,voiture
+2,vehicule,avion,helico,mongolfiere,jet-prive
+1,emplacement,grece,usa,belgique,angleterre
+2,emplacement,belgique,namur,liege,charleroi,menin,bruges
+1,nourriture,fruit,desserts,legumes,boissons

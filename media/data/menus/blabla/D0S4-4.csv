@@ -1,0 +1,8 @@
+0,emplacement,activite,animal,date
+1,animal,oiseau,insect,mammifere,reptile
+2,animal,oiseau,cygne,aigle,pigeon,vautour,pie
+2,animal,insect,moustique,scarabee,abeille
+2,animal,mammifere,furet,ours,vache
+1,date,fevrier,decembre,octobre,septembre
+2,date,fevrier,07/02,10/02,20/02
+2,date,octobre,halloween,5/10,20/10

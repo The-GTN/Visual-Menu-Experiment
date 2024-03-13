@@ -1,0 +1,14 @@
+0,nourriture,activite,emplacement,vehicule,date,animal
+1,activite,art,artisanat,profession
+2,activite,art,sculpture,litterature,gravure
+2,activite,profession,professeur,medecin,boulanger,pompier
+1,emplacement,grece,france,italie,angleterre
+2,emplacement,grece,thessalonique,athenes,patras,argos,heraklion
+2,emplacement,france,paris,bordeaux,tourcoing,lille,toulouse
+2,emplacement,italie,turin,naples,pompei,bologne
+1,vehicule,bateau,voiture,avion,velo
+2,vehicule,avion,mongolfiere,jet-pack,helico,jet-prive
+1,animal,insect,poisson,mammifere,oiseau
+2,animal,insect,moustique,criquet,scarabee,bousier,fourmi
+2,animal,poisson,poisson-clown,truite,saumon,carpe,requin
+2,animal,mammifere,vache,furet,chat

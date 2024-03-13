@@ -1,0 +1,19 @@
+0,vehicule,date,emplacement,nourriture,animal,activite
+1,vehicule,voiture,avion,fusee,bateau
+2,vehicule,avion,helico,mongolfiere,avion-de-chasse,jet-prive,avion-de-tourisme
+2,vehicule,fusee,rocket,vaisseau-spatial,ISS
+1,date,mars,septembre,decembre
+2,date,septembre,10/09,25/09,13/09,01/09,20/09
+2,date,decembre,10/12,02/12,noel
+1,nourriture,legumes,boissons,desserts,fastfood
+2,nourriture,boissons,cafe,biere,vin
+2,nourriture,fastfood,tacos,sushis,burritos,nugget,kebab
+1,animal,reptile,insect,poisson,oiseau
+2,animal,reptile,dragon,lezard,serpent,crocodile
+2,animal,insect,scarabee,criquet,mante-religieuse,bousier
+2,animal,poisson,poisson-clown,truite,carpe
+2,animal,oiseau,corbeau,aigle,chouette
+1,activite,profession,jeux,entreprise,artisanat
+2,activite,profession,pompier,fleuriste,astronaute
+2,activite,jeux,jeux de plateaux,lotterie,laser game
+2,activite,artisanat,forgerie,charpenterie,electricite,verrerie,bijouterie

@@ -1,0 +1,13 @@
+0,date,vehicule,emplacement,animal,activite
+1,date,decembre,fevrier,septembre,avril
+2,date,decembre,reveillon,08/12,noel
+1,vehicule,fusee,bateau,train,voiture
+2,vehicule,fusee,apollo13,vaisseau-spatial,rocket,ISS
+2,vehicule,bateau,chalutier,jetski,pedalo
+2,vehicule,train,sncf,tram,wagon,locomotive
+1,emplacement,belgique,italie,france,angleterre,usa
+2,emplacement,italie,florence,milan,bologne
+2,emplacement,angleterre,liverpool,londres,manchester
+1,animal,poisson,oiseau,reptile,insect
+2,animal,reptile,crocodile,alligator,dragon,iguane
+2,animal,insect,abeille,mante-religieuse,scarabee

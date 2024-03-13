@@ -1,0 +1,16 @@
+0,activite,emplacement,date,nourriture,animal,vehicule
+1,activite,art,sport,artisanat,entreprise
+2,activite,sport,musculation,tennis,badminton
+2,activite,entreprise,management,intraprenariat,team-leading,co-working,start-up
+1,emplacement,grece,angleterre,belgique,espagne
+2,emplacement,grece,rhodes,patras,athenes,thessalonique
+2,emplacement,angleterre,londres,liverpool,manchester
+2,emplacement,belgique,liege,bruges,charleroi
+1,date,fevrier,mars,janvier,avril
+2,date,fevrier,st valentin,10/02,20/02
+2,date,janvier,galette des rois,28/01,30/01
+2,date,avril,18/04,30/04,01/04
+1,animal,insect,poisson,reptile,mammifere,oiseau
+2,animal,insect,mante-religieuse,abeille,criquet,bousier
+2,animal,reptile,lezard,crocodile,alligator,iguane
+2,animal,mammifere,chat,kangourou,humain,chien,furet

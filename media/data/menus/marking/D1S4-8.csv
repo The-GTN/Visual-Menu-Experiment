@@ -1,0 +1,10 @@
+0,vehicule,emplacement,nourriture,activite,animal,date
+1,nourriture,patates,legumes,desserts,pates
+2,nourriture,patates,grattin dauphinois,patate douce,patate sautee,pomme dauphine,frite
+2,nourriture,pates,coquillette,linguinie,spaghetti,tagliatelle
+1,animal,poisson,reptile,mammifere,insect
+2,animal,poisson,poisson-chat,requin,carpe,sardine
+2,animal,reptile,crocodile,serpent,alligator,dragon,lezard
+2,animal,insect,bousier,moustique,mante-religieuse
+1,date,septembre,janvier,fevrier,decembre,octobre
+2,date,fevrier,22/02,07/02,10/02,st valentin,20/02

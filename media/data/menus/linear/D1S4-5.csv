@@ -1,0 +1,7 @@
+0,vehicule,nourriture,activite,emplacement,animal,date
+1,vehicule,fusee,velo,voiture,avion
+2,vehicule,velo,monocycle,velo-electrique,moto
+1,activite,profession,sport,jeux
+2,activite,profession,professeur,pompier,medecin
+1,animal,reptile,mammifere,oiseau,insect,poisson
+2,animal,poisson,carpe,sardine,poisson-clown,truite,poisson-chat

@@ -1,0 +1,13 @@
+0,animal,vehicule,activite,emplacement,nourriture,date
+1,emplacement,angleterre,italie,grece,france
+2,emplacement,italie,pompei,rome,milan,bologne
+2,emplacement,grece,athenes,corinthe,thessalonique
+2,emplacement,france,lille,toulouse,bordeaux,tourcoing
+1,nourriture,desserts,fruit,fastfood,legumes
+2,nourriture,desserts,gateau,ile flottante,tarte,milkshake
+2,nourriture,fruit,ananas,peche,fraise
+2,nourriture,legumes,poivron,tomate,courgette
+1,date,septembre,fevrier,octobre,avril
+2,date,septembre,25/09,01/09,20/09,07/09
+2,date,fevrier,10/02,st valentin,01/02,20/02
+2,date,avril,paque,01/04,13/04,11/04,12/04

@@ -1,0 +1,14 @@
+0,vehicule,nourriture,animal,activite,emplacement,date
+1,nourriture,boissons,fastfood,desserts
+1,activite,jeux,art,profession,artisanat
+2,activite,jeux,jeux de plateaux,jeux exterieurs,escape game,lotterie
+2,activite,art,peinture,danse,cinema
+2,activite,profession,astronaute,fleuriste,pompier
+2,activite,artisanat,menuiserie,bijouterie,verrerie,electricite
+1,emplacement,italie,grece,espagne,france
+2,emplacement,grece,heraklion,athenes,patras,rhodes
+2,emplacement,espagne,seville,barcelone,bilbao,madrid,grenade
+2,emplacement,france,toulouse,bordeaux,tourcoing,lille,paris
+1,date,septembre,avril,mars
+2,date,avril,13/04,18/04,12/04,paque,01/04
+2,date,mars,10/03,07/03,21/03

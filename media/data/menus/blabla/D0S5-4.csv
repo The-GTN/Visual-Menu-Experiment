@@ -1,0 +1,8 @@
+0,animal,emplacement,date,vehicule,nourriture
+1,animal,poisson,reptile,oiseau,insect
+2,animal,reptile,alligator,lezard,iguane,geiko,crocodile
+2,animal,oiseau,pie,aigle,pigeon,corbeau,cygne
+2,animal,insect,criquet,bousier,fourmi,abeille
+1,date,decembre,mars,fevrier,septembre
+2,date,fevrier,st valentin,01/02,10/02,07/02
+2,date,septembre,13/09,25/09,07/09,15/09,10/09

@@ -1,0 +1,10 @@
+0,nourriture,activite,animal,emplacement,vehicule,date
+1,nourriture,fruit,pates,patates,fastfood,boissons
+2,nourriture,fastfood,burritos,burger,sushis
+1,activite,profession,artisanat,art,entreprise
+2,activite,artisanat,plomberie,menuiserie,forgerie
+2,activite,art,peinture,gravure,danse,bande-dessinee,theatre
+2,activite,entreprise,co-working,entreprenariat,team-leading,start-up
+1,vehicule,avion,train,voiture,bateau
+2,vehicule,voiture,4x4,lamborghini,honda,ferrari,renault
+2,vehicule,bateau,chalutier,voilier,paquebot

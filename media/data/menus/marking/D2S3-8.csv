@@ -1,0 +1,5 @@
+0,date,activite,nourriture,animal,vehicule,emplacement
+1,vehicule,train,velo,fusee,voiture
+2,vehicule,train,draisine,tram,locomotive,metro
+2,vehicule,velo,tricycle,trotinette,vtt
+2,vehicule,fusee,apollo13,rocket,spatial-tesla

@@ -1,0 +1,10 @@
+0,animal,vehicule,emplacement,date,nourriture,activite
+1,animal,poisson,reptile,oiseau,insect,mammifere
+2,animal,reptile,geiko,alligator,crocodile,dragon
+2,animal,oiseau,pigeon,chouette,vautour,pie,cygne
+1,date,decembre,septembre,fevrier,avril
+2,date,septembre,01/09,10/09,07/09,25/09,13/09
+1,activite,sport,jeux,art,artisanat
+2,activite,sport,course,musculation,judo,tennis
+2,activite,jeux,laser game,jeux video,jeux exterieurs
+2,activite,artisanat,forgerie,verrerie,bijouterie,plomberie

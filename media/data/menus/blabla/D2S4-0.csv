@@ -1,0 +1,15 @@
+0,emplacement,date,activite,nourriture,vehicule,animal
+1,emplacement,grece,angleterre,france,espagne
+2,emplacement,france,paris,lille,grenoble,toulouse
+1,date,octobre,mars,septembre,janvier
+1,activite,sport,entreprise,profession,artisanat
+2,activite,sport,judo,badminton,natation,musculation,tennis
+1,nourriture,desserts,pates,patates,legumes
+2,nourriture,desserts,yahourt,ile flottante,gateau,glace
+2,nourriture,pates,linguinie,spaghetti,tagliatelle,lasagne,farfalle
+2,nourriture,patates,patate douce,frite,patate sautee,puree,pomme dauphine
+1,vehicule,voiture,bateau,train,fusee
+2,vehicule,voiture,voiturette,4x4,ferrari
+2,vehicule,bateau,jetski,voilier,yacht,pedalo,paquebot
+2,vehicule,train,rer,locomotive,metro,wagon
+2,vehicule,fusee,vaisseau-spatial,ISS,spatial-tesla,ariane,rocket

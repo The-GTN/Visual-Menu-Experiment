@@ -1,0 +1,13 @@
+0,activite,animal,vehicule,emplacement,date,nourriture
+1,activite,jeux,sport,art,profession
+2,activite,sport,badminton,patinage,natation,course
+2,activite,profession,fleuriste,professeur,boucher
+1,animal,oiseau,reptile,mammifere,insect
+2,animal,reptile,alligator,geiko,iguane,crocodile
+2,animal,mammifere,chat,ours,furet,vache
+1,emplacement,belgique,usa,grece,espagne,angleterre
+2,emplacement,espagne,madrid,valence,barcelone,seville
+2,emplacement,angleterre,londres,liverpool,manchester,bristol
+1,date,mars,fevrier,avril,janvier
+2,date,fevrier,07/02,01/02,st valentin,20/02,10/02
+2,date,avril,13/04,12/04,18/04,paque

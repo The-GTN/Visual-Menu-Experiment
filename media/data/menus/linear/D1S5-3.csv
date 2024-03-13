@@ -1,0 +1,14 @@
+0,nourriture,emplacement,date,activite,animal,vehicule
+1,nourriture,legumes,pates,fruit,fastfood,patates
+2,nourriture,fruit,pomme,mangue,banane,peche
+2,nourriture,fastfood,kebab,pizza,sushis
+1,emplacement,usa,belgique,france
+1,date,mars,fevrier,janvier,octobre
+2,date,janvier,28/01,nouvel an,15/01,02/01
+1,activite,profession,artisanat,jeux
+1,animal,oiseau,insect,reptile,mammifere
+2,animal,insect,criquet,scarabee,bousier
+2,animal,mammifere,humain,ours,kangourou
+1,vehicule,bateau,fusee,avion
+2,vehicule,fusee,vaisseau-spatial,ariane,rocket
+2,vehicule,avion,avion-de-tourisme,mongolfiere,avion-de-chasse,jet-pack

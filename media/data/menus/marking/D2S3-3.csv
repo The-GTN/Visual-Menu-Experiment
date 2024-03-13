@@ -1,0 +1,10 @@
+0,emplacement,date,vehicule,activite,animal,nourriture
+1,emplacement,italie,angleterre,france,grece
+2,emplacement,italie,rome,milan,pompei
+2,emplacement,france,lille,tourcoing,roubaix
+1,date,avril,decembre,octobre,janvier
+2,date,decembre,10/12,noel,01/12,08/12
+2,date,octobre,5/10,20/10,30/10,halloween
+1,nourriture,fastfood,fruit,desserts,patates,legumes
+2,nourriture,desserts,tarte,glace,yahourt
+2,nourriture,patates,puree,frite,pomme dauphine

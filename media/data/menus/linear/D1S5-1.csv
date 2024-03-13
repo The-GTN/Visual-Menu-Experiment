@@ -1,0 +1,16 @@
+0,animal,nourriture,vehicule,date,emplacement,activite
+1,animal,poisson,oiseau,mammifere,reptile,insect
+1,nourriture,patates,fruit,boissons
+2,nourriture,patates,patate sautee,gnocchis,grattin dauphinois,frite,patate douce
+2,nourriture,fruit,orange,ananas,mangue
+1,vehicule,avion,train,voiture,fusee
+2,vehicule,train,rer,wagon,locomotive,sncf
+2,vehicule,voiture,honda,voiturette,lamborghini
+1,date,fevrier,mars,septembre
+1,emplacement,angleterre,espagne,france,belgique,usa
+2,emplacement,france,grenoble,paris,bordeaux,toulouse,roubaix
+2,emplacement,usa,houston,washington,new york,las vegas,los angeles
+1,activite,entreprise,sport,art,artisanat,jeux
+2,activite,entreprise,entreprenariat,co-working,management,team-leading,start-up
+2,activite,art,sculpture,musique,theatre
+2,activite,jeux,laser game,escape game,jeux de plateaux,casino,lotterie

@@ -1,0 +1,10 @@
+0,animal,activite,emplacement,nourriture,vehicule,date
+1,animal,oiseau,poisson,mammifere,insect
+2,animal,oiseau,pigeon,pie,vautour,corbeau,aigle
+2,animal,mammifere,humain,ours,chien,kangourou
+2,animal,insect,abeille,moustique,scarabee,mante-religieuse
+1,activite,entreprise,art,jeux
+1,emplacement,belgique,france,grece
+1,vehicule,train,avion,voiture,velo,fusee
+2,vehicule,avion,jet-prive,jet-pack,avion-de-chasse,avion-de-tourisme,mongolfiere
+2,vehicule,voiture,toyota,honda,4x4,lamborghini

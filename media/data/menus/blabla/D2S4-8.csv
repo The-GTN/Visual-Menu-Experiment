@@ -1,0 +1,12 @@
+0,animal,nourriture,vehicule,activite,emplacement,date
+1,animal,mammifere,insect,reptile,oiseau,poisson
+2,animal,mammifere,furet,vache,chien,chat,humain
+2,animal,insect,abeille,moustique,fourmi,scarabee
+1,vehicule,train,avion,voiture,velo
+2,vehicule,train,rer,sncf,draisine,tram
+2,vehicule,voiture,toyota,ferrari,renault,4x4
+2,vehicule,velo,bicyclette,trotinette,velo-electrique
+1,activite,profession,entreprise,artisanat,jeux,art
+2,activite,artisanat,electricite,plomberie,forgerie,bijouterie,menuiserie
+2,activite,jeux,lotterie,laser game,jeux de plateaux
+2,activite,art,peinture,litterature,bande-dessinee,sculpture

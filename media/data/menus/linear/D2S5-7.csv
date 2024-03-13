@@ -1,0 +1,12 @@
+0,animal,activite,date,emplacement,nourriture,vehicule
+1,emplacement,belgique,italie,france,usa
+2,emplacement,belgique,liege,mouscrons,bruxelles
+2,emplacement,italie,naples,florence,milan,parme
+2,emplacement,france,roubaix,lille,toulouse,tourcoing
+2,emplacement,usa,new york,washington,miami,las vegas,houston
+1,nourriture,legumes,boissons,fruit,pates
+2,nourriture,boissons,soda,cafe,the glacee,chocolat chaud,vin
+2,nourriture,fruit,ananas,peche,orange
+1,vehicule,fusee,bateau,avion,voiture
+2,vehicule,avion,avion-de-chasse,mongolfiere,jet-prive,helico,jet-pack
+2,vehicule,voiture,renault,ferrari,voiturette,toyota

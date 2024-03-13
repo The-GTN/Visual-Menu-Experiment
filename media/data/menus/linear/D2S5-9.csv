@@ -1,0 +1,18 @@
+0,nourriture,date,activite,vehicule,animal,emplacement
+1,nourriture,legumes,desserts,fruit,pates
+2,nourriture,legumes,poireau,tomate,aubergine,poivron,courgette
+2,nourriture,desserts,yahourt,compote,tarte,ile flottante,gateau
+2,nourriture,fruit,banane,mangue,peche
+1,date,janvier,septembre,octobre,mars
+2,date,octobre,5/10,01/10,halloween,20/10,15/10
+2,date,mars,10/03,07/03,21/03,22/03
+1,vehicule,fusee,velo,voiture
+1,animal,poisson,insect,reptile,oiseau
+2,animal,poisson,truite,saumon,carpe
+2,animal,insect,bousier,criquet,abeille,mante-religieuse
+2,animal,reptile,alligator,serpent,crocodile,dragon,iguane
+2,animal,oiseau,pigeon,pie,vautour,corbeau
+1,emplacement,angleterre,france,italie,usa
+2,emplacement,france,tourcoing,toulouse,grenoble,bordeaux,lille
+2,emplacement,italie,milan,venise,rome,bologne,turin
+2,emplacement,usa,new york,los angeles,houston,miami

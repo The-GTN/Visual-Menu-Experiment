@@ -1,0 +1,10 @@
+0,emplacement,vehicule,nourriture,animal
+1,vehicule,avion,velo,train,bateau
+2,vehicule,avion,mongolfiere,helico,avion-de-tourisme,jet-pack,avion-de-chasse
+2,vehicule,velo,tricycle,velo-electrique,vtt,trotinette,moto
+2,vehicule,train,locomotive,tram,metro,draisine
+2,vehicule,bateau,pedalo,paquebot,voilier,chalutier
+1,animal,reptile,poisson,oiseau,mammifere
+2,animal,poisson,truite,sardine,carpe
+2,animal,oiseau,aigle,chouette,pie,vautour,corbeau
+2,animal,mammifere,vache,humain,furet,chat,ours

@@ -1,0 +1,11 @@
+0,date,emplacement,vehicule,activite,nourriture,animal
+1,date,septembre,fevrier,octobre,mars
+2,date,septembre,10/09,20/09,15/09
+2,date,octobre,halloween,15/10,11/10
+2,date,mars,10/03,30/03,21/03,st patrick
+1,emplacement,grece,angleterre,usa,france
+2,emplacement,grece,patras,thessalonique,rhodes
+2,emplacement,angleterre,bristol,brighton,londres
+2,emplacement,usa,washington,miami,houston,san fransico,los angeles
+1,activite,sport,profession,art,entreprise
+2,activite,profession,pompier,boulanger,fleuriste,professeur

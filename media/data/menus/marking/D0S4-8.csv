@@ -1,0 +1,12 @@
+0,activite,date,vehicule,animal
+1,activite,profession,artisanat,art,entreprise
+2,activite,profession,pompier,boucher,fleuriste,medecin,professeur
+2,activite,art,litterature,cinema,danse,peinture
+2,activite,entreprise,team-leading,entreprenariat,co-working,start-up
+1,date,mars,decembre,octobre,janvier
+2,date,mars,30/03,10/03,20/03
+2,date,octobre,5/10,01/10,30/10,halloween,15/10
+2,date,janvier,30/01,28/01,15/01
+1,vehicule,avion,fusee,train,voiture,bateau
+2,vehicule,avion,helico,jet-pack,avion-de-tourisme,jet-prive,avion-de-chasse
+2,vehicule,fusee,OVNI,apollo13,rocket,vaisseau-spatial,spatial-tesla

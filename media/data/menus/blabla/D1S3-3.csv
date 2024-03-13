@@ -1,0 +1,13 @@
+0,nourriture,emplacement,animal,vehicule,date,activite
+1,emplacement,angleterre,belgique,usa,espagne,italie
+2,emplacement,belgique,liege,bruxelles,bruges,namur
+2,emplacement,usa,miami,new york,los angeles,washington,houston
+2,emplacement,espagne,grenade,barcelone,valence
+2,emplacement,italie,pompei,parme,bologne
+1,animal,reptile,insect,oiseau
+2,animal,reptile,alligator,geiko,serpent,dragon
+1,vehicule,train,voiture,bateau
+2,vehicule,bateau,chalutier,jetski,pedalo,yacht
+1,date,mars,fevrier,octobre,avril,decembre
+2,date,mars,07/03,30/03,20/03,22/03
+2,date,decembre,01/12,02/12,10/12

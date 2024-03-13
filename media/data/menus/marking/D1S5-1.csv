@@ -1,0 +1,11 @@
+0,nourriture,date,activite,emplacement,vehicule,animal
+1,emplacement,italie,france,usa
+2,emplacement,italie,rome,milan,pompei,bologne,turin
+1,vehicule,fusee,avion,bateau,velo,train
+2,vehicule,bateau,yacht,jetski,pedalo,chalutier,paquebot
+2,vehicule,velo,moto,vtt,velo-electrique,trotinette,tricycle
+2,vehicule,train,draisine,locomotive,metro,rer,sncf
+1,animal,reptile,insect,poisson,mammifere
+2,animal,reptile,dragon,geiko,iguane,serpent,alligator
+2,animal,insect,mante-religieuse,abeille,bousier
+2,animal,poisson,saumon,truite,requin

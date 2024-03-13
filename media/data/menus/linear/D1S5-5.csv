@@ -1,0 +1,16 @@
+0,activite,date,animal,emplacement,vehicule,nourriture
+1,activite,profession,artisanat,jeux,entreprise,art
+2,activite,artisanat,menuiserie,plomberie,electricite
+2,activite,jeux,casino,jeux video,lotterie,jeux exterieurs
+1,animal,insect,mammifere,oiseau,reptile
+2,animal,mammifere,furet,chat,ours,humain
+2,animal,reptile,serpent,iguane,alligator,dragon
+1,emplacement,france,italie,belgique,angleterre
+2,emplacement,france,grenoble,lille,roubaix
+2,emplacement,italie,naples,florence,pompei
+1,vehicule,train,bateau,avion,fusee
+2,vehicule,train,tram,sncf,locomotive,wagon
+2,vehicule,fusee,ariane,apollo13,rocket
+1,nourriture,fastfood,patates,legumes,desserts
+2,nourriture,fastfood,burritos,nugget,kebab,sushis,pizza
+2,nourriture,legumes,aubergine,carotte,tomate,poivron

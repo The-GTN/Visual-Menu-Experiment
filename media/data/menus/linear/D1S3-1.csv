@@ -1,0 +1,12 @@
+0,emplacement,date,nourriture,animal,vehicule,activite
+1,emplacement,france,belgique,angleterre
+2,emplacement,belgique,menin,liege,bruges
+1,date,octobre,avril,janvier,fevrier
+2,date,avril,12/04,11/04,30/04
+2,date,janvier,15/01,nouvel an,20/01
+2,date,fevrier,st valentin,10/02,20/02,01/02,22/02
+1,animal,mammifere,reptile,poisson,oiseau
+2,animal,poisson,sardine,truite,carpe
+1,vehicule,avion,voiture,fusee,bateau,train
+2,vehicule,voiture,honda,toyota,voiturette,renault,ferrari
+2,vehicule,fusee,rocket,ariane,OVNI,ISS,apollo13

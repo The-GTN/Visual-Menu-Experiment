@@ -1,0 +1,16 @@
+0,date,activite,nourriture,animal,emplacement,vehicule
+1,date,septembre,mars,janvier,octobre
+2,date,septembre,13/09,15/09,07/09,20/09,10/09
+2,date,mars,st patrick,07/03,10/03
+2,date,janvier,20/01,nouvel an,30/01
+2,date,octobre,20/10,01/10,15/10,11/10
+1,nourriture,patates,boissons,fastfood,fruit
+2,nourriture,patates,gnocchis,pomme dauphine,frite,patate sautee
+2,nourriture,boissons,jus de fruits,chocolat chaud,cafe,the,biere
+1,emplacement,belgique,espagne,france,usa,grece
+2,emplacement,espagne,bilbao,barcelone,madrid,seville,valence
+2,emplacement,france,bordeaux,roubaix,paris,grenoble,lille
+2,emplacement,grece,rhodes,patras,heraklion
+1,vehicule,voiture,train,bateau
+2,vehicule,voiture,toyota,honda,4x4,renault
+2,vehicule,train,metro,sncf,tram

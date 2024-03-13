@@ -1,0 +1,8 @@
+0,emplacement,date,activite,nourriture,vehicule
+1,emplacement,italie,espagne,usa,france
+2,emplacement,espagne,seville,barcelone,madrid,bilbao
+2,emplacement,france,roubaix,toulouse,tourcoing,lille
+1,activite,profession,jeux,entreprise,sport
+2,activite,entreprise,co-working,intraprenariat,gestion de projet
+2,activite,sport,judo,musculation,natation,tennis
+1,nourriture,desserts,boissons,pates

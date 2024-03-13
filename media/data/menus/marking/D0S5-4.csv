@@ -1,0 +1,11 @@
+0,emplacement,nourriture,date,vehicule,activite
+1,emplacement,france,grece,belgique,usa
+2,emplacement,france,lille,bordeaux,roubaix
+1,nourriture,fastfood,pates,fruit,patates
+2,nourriture,pates,tagliatelle,coquillette,lasagne
+2,nourriture,fruit,banane,peche,ananas,pomme,mangue
+2,nourriture,patates,frite,patate douce,pomme dauphine,patate sautee
+1,vehicule,train,fusee,bateau,avion
+1,activite,art,profession,entreprise,sport
+2,activite,profession,professeur,fleuriste,pompier
+2,activite,sport,musculation,judo,natation

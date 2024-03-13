@@ -1,0 +1,17 @@
+0,vehicule,activite,date,emplacement,animal,nourriture
+1,vehicule,bateau,fusee,voiture,velo
+2,vehicule,bateau,voilier,chalutier,pedalo
+2,vehicule,velo,vtt,bicyclette,monocycle,velo-electrique,moto
+1,date,decembre,fevrier,octobre,mars,janvier
+2,date,octobre,halloween,30/10,5/10,11/10,01/10
+2,date,mars,07/03,21/03,22/03
+1,emplacement,france,italie,belgique,espagne
+2,emplacement,italie,bologne,naples,pompei
+2,emplacement,belgique,charleroi,namur,mouscrons
+2,emplacement,espagne,barcelone,seville,madrid,bilbao,grenade
+1,animal,insect,reptile,mammifere,oiseau
+2,animal,mammifere,chien,humain,ours,vache,furet
+1,nourriture,boissons,legumes,desserts,pates
+2,nourriture,legumes,poireau,tomate,champignon
+2,nourriture,desserts,ile flottante,tarte,gateau,yahourt,compote
+2,nourriture,pates,linguinie,coquillette,lasagne

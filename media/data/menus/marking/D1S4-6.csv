@@ -1,0 +1,11 @@
+0,date,nourriture,activite,animal,vehicule,emplacement
+1,nourriture,desserts,boissons,pates,legumes
+2,nourriture,desserts,compote,tarte,gateau,milkshake,yahourt
+1,animal,reptile,oiseau,poisson,insect
+2,animal,reptile,serpent,iguane,alligator
+2,animal,oiseau,vautour,corbeau,pigeon
+2,animal,insect,fourmi,criquet,bousier,scarabee
+1,emplacement,france,angleterre,grece,belgique
+2,emplacement,france,tourcoing,lille,grenoble,paris,bordeaux
+2,emplacement,angleterre,brighton,londres,manchester,bristol
+2,emplacement,belgique,bruges,charleroi,namur,bruxelles

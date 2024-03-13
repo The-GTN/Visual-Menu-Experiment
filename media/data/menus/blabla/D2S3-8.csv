@@ -1,0 +1,11 @@
+0,vehicule,nourriture,date,activite,emplacement,animal
+1,nourriture,patates,boissons,desserts,pates
+2,nourriture,boissons,the glacee,the,soda,chocolat chaud,biere
+2,nourriture,desserts,yahourt,gateau,ile flottante,glace,milkshake
+2,nourriture,pates,lasagne,penne,spaghetti
+1,activite,art,profession,jeux,sport
+2,activite,art,musique,bande-dessinee,danse
+2,activite,profession,professeur,medecin,astronaute
+2,activite,jeux,laser game,lotterie,jeux video,escape game
+1,animal,oiseau,poisson,insect,reptile
+2,animal,oiseau,aigle,vautour,cygne

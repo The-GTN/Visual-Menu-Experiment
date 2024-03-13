@@ -1,0 +1,11 @@
+0,emplacement,vehicule,date,nourriture,animal,activite
+1,date,octobre,avril,janvier,fevrier
+2,date,avril,13/04,01/04,12/04
+2,date,janvier,15/01,20/01,02/01,nouvel an,30/01
+1,nourriture,fruit,pates,boissons
+1,animal,mammifere,oiseau,reptile,insect,poisson
+2,animal,oiseau,aigle,corbeau,pigeon,pie,cygne
+2,animal,reptile,geiko,crocodile,dragon,alligator,iguane
+1,activite,profession,jeux,art,entreprise
+2,activite,jeux,laser game,casino,jeux de plateaux,escape game,jeux exterieurs
+2,activite,art,litterature,cinema,sculpture,theatre

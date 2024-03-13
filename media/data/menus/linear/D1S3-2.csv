@@ -1,0 +1,10 @@
+0,nourriture,activite,date,vehicule,animal,emplacement
+1,nourriture,legumes,fruit,patates,boissons
+2,nourriture,legumes,carotte,poivron,champignon,courgette
+2,nourriture,fruit,orange,ananas,mangue
+2,nourriture,patates,gnocchis,grattin dauphinois,puree
+2,nourriture,boissons,the glacee,biere,soda,vin,eau
+1,date,mars,avril,septembre
+2,date,mars,20/03,21/03,22/03
+2,date,avril,paque,01/04,11/04
+1,emplacement,espagne,france,belgique

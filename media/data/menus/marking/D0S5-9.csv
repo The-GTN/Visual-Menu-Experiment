@@ -1,0 +1,11 @@
+0,vehicule,date,nourriture,emplacement,activite
+1,date,mars,octobre,avril,decembre
+2,date,mars,07/03,21/03,22/03,30/03
+2,date,octobre,5/10,15/10,halloween,01/10
+2,date,avril,paque,11/04,18/04
+2,date,decembre,reveillon,16/12,01/12,10/12,08/12
+1,emplacement,france,espagne,angleterre,belgique
+2,emplacement,france,grenoble,paris,toulouse
+1,activite,sport,profession,jeux,artisanat
+2,activite,sport,musculation,judo,tennis,patinage,natation
+2,activite,artisanat,verrerie,charpenterie,plomberie,electricite

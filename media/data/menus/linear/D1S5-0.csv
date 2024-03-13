@@ -1,0 +1,14 @@
+0,date,animal,vehicule,nourriture,emplacement,activite
+1,date,fevrier,decembre,avril,septembre
+2,date,fevrier,st valentin,22/02,20/02,07/02,01/02
+2,date,septembre,13/09,07/09,20/09
+1,animal,poisson,mammifere,reptile,insect,oiseau
+2,animal,mammifere,chien,furet,vache,ours,kangourou
+2,animal,insect,criquet,moustique,mante-religieuse,bousier,fourmi
+1,vehicule,voiture,velo,fusee
+1,emplacement,angleterre,italie,usa,belgique
+2,emplacement,angleterre,liverpool,brighton,londres,bristol,oxford
+2,emplacement,usa,las vegas,los angeles,houston,miami
+1,activite,jeux,profession,art,sport
+2,activite,jeux,jeux exterieurs,jeux video,casino,laser game,escape game
+2,activite,sport,judo,patinage,badminton,natation,course

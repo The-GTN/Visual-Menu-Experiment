@@ -1,0 +1,11 @@
+0,activite,date,vehicule,nourriture,emplacement
+1,vehicule,train,voiture,fusee,bateau,avion
+2,vehicule,train,tram,draisine,locomotive
+2,vehicule,voiture,voiturette,lamborghini,toyota
+2,vehicule,fusee,rocket,ariane,ISS
+1,nourriture,desserts,patates,legumes,boissons
+2,nourriture,patates,frite,patate douce,patate sautee,grattin dauphinois,gnocchis
+2,nourriture,boissons,biere,cafe,the,eau,vin
+1,emplacement,belgique,espagne,grece,france
+2,emplacement,belgique,bruxelles,namur,menin,bruges,liege
+2,emplacement,grece,rhodes,patras,heraklion,athenes,argos

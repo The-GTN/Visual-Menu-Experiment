@@ -1,0 +1,16 @@
+0,animal,nourriture,date,activite,emplacement,vehicule
+1,nourriture,desserts,boissons,pates,fastfood
+2,nourriture,desserts,ile flottante,yahourt,tarte
+2,nourriture,boissons,eau,soda,chocolat chaud,vin,biere
+2,nourriture,pates,spaghetti,coquillette,lasagne,tagliatelle
+2,nourriture,fastfood,tacos,sushis,kebab,nugget
+1,date,septembre,fevrier,avril,janvier
+2,date,septembre,07/09,20/09,15/09,25/09,01/09
+2,date,avril,paque,12/04,13/04
+2,date,janvier,galette des rois,15/01,20/01,30/01,28/01
+1,activite,artisanat,jeux,profession,art
+2,activite,profession,astronaute,professeur,fleuriste
+2,activite,art,peinture,litterature,theatre
+1,vehicule,fusee,bateau,train,velo
+2,vehicule,bateau,voilier,pedalo,yacht
+2,vehicule,train,draisine,sncf,rer

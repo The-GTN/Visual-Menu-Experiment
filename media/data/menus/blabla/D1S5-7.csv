@@ -1,0 +1,8 @@
+0,emplacement,nourriture,date,activite,vehicule,animal
+1,nourriture,pates,patates,fruit,legumes,desserts
+2,nourriture,fruit,mangue,pomme,orange,banane,fraise
+1,date,octobre,janvier,septembre,decembre
+2,date,septembre,20/09,07/09,01/09,25/09,15/09
+2,date,decembre,02/12,reveillon,16/12
+1,activite,profession,jeux,entreprise,sport
+2,activite,profession,astronaute,boucher,fleuriste

@@ -1,0 +1,11 @@
+0,emplacement,vehicule,activite,animal
+1,emplacement,italie,belgique,usa,france
+2,emplacement,italie,pompei,turin,rome,florence,milan
+2,emplacement,belgique,bruges,mouscrons,bruxelles
+2,emplacement,france,bordeaux,toulouse,tourcoing,paris,lille
+1,vehicule,avion,fusee,bateau,voiture
+2,vehicule,avion,helico,avion-de-chasse,avion-de-tourisme,jet-pack,jet-prive
+2,vehicule,bateau,yacht,jetski,paquebot,pedalo,chalutier
+1,activite,profession,jeux,art,entreprise
+2,activite,art,bande-dessinee,sculpture,litterature
+2,activite,entreprise,management,start-up,intraprenariat

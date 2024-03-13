@@ -1,0 +1,10 @@
+0,animal,vehicule,emplacement,activite,date,nourriture
+1,animal,insect,reptile,oiseau
+1,vehicule,voiture,bateau,avion
+1,emplacement,angleterre,france,belgique,espagne
+2,emplacement,espagne,barcelone,grenade,madrid,seville,bilbao
+1,date,mars,janvier,fevrier,septembre
+2,date,mars,22/03,21/03,20/03
+2,date,janvier,30/01,02/01,28/01,galette des rois
+2,date,fevrier,07/02,20/02,10/02
+2,date,septembre,01/09,13/09,07/09,20/09

@@ -1,0 +1,18 @@
+0,date,vehicule,emplacement,nourriture,animal,activite
+1,date,septembre,avril,octobre,fevrier
+2,date,fevrier,10/02,st valentin,05/02
+1,vehicule,voiture,avion,bateau
+2,vehicule,voiture,4x4,voiturette,toyota
+2,vehicule,avion,avion-de-chasse,avion-de-tourisme,jet-prive,helico,mongolfiere
+1,emplacement,grece,belgique,usa,espagne
+2,emplacement,grece,argos,heraklion,corinthe,patras
+2,emplacement,usa,houston,san fransico,las vegas
+2,emplacement,espagne,valence,seville,bilbao,madrid,barcelone
+1,animal,poisson,mammifere,oiseau,insect
+2,animal,mammifere,vache,humain,ours,chat
+2,animal,oiseau,aigle,corbeau,chouette
+2,animal,insect,mante-religieuse,fourmi,bousier,criquet
+1,activite,art,entreprise,profession,artisanat
+2,activite,art,peinture,bande-dessinee,cinema,litterature,gravure
+2,activite,profession,boulanger,professeur,fleuriste
+2,activite,artisanat,plomberie,charpenterie,electricite

@@ -1,0 +1,11 @@
+0,date,activite,nourriture,vehicule,animal,emplacement
+1,date,fevrier,octobre,janvier,decembre
+2,date,fevrier,st valentin,01/02,20/02,07/02
+2,date,octobre,halloween,15/10,5/10,11/10
+1,nourriture,fruit,patates,boissons,fastfood
+2,nourriture,patates,frite,gnocchis,patate sautee,puree,grattin dauphinois
+2,nourriture,fastfood,pizza,kebab,tacos,nugget
+1,vehicule,fusee,train,voiture
+2,vehicule,voiture,toyota,4x4,honda,voiturette
+1,animal,poisson,reptile,insect,oiseau
+2,animal,reptile,iguane,geiko,dragon,crocodile,alligator

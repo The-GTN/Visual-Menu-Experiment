@@ -1,0 +1,17 @@
+0,animal,nourriture,date,vehicule,activite,emplacement
+1,animal,poisson,reptile,mammifere
+1,nourriture,legumes,patates,desserts,boissons
+2,nourriture,patates,pomme dauphine,patate douce,gnocchis,patate sautee
+1,date,decembre,septembre,avril,octobre
+2,date,decembre,noel,10/12,02/12
+2,date,septembre,10/09,13/09,01/09,15/09,07/09
+2,date,octobre,20/10,15/10,30/10,11/10,01/10
+1,vehicule,fusee,velo,avion,train
+2,vehicule,fusee,apollo13,OVNI,rocket
+2,vehicule,avion,jet-pack,jet-prive,avion-de-chasse,avion-de-tourisme
+2,vehicule,train,locomotive,draisine,sncf
+1,activite,artisanat,entreprise,art,profession
+2,activite,artisanat,electricite,forgerie,menuiserie
+2,activite,entreprise,start-up,co-working,gestion de projet
+2,activite,art,musique,cinema,litterature,theatre
+2,activite,profession,boulanger,astronaute,fleuriste,pompier

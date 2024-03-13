@@ -1,0 +1,16 @@
+0,emplacement,vehicule,nourriture,date,animal,activite
+1,emplacement,angleterre,espagne,belgique
+2,emplacement,angleterre,bristol,manchester,oxford,leeds
+1,nourriture,fruit,desserts,patates,legumes
+2,nourriture,fruit,orange,peche,fraise,pomme
+2,nourriture,patates,puree,patate douce,gnocchis,frite
+1,date,avril,septembre,decembre,janvier
+2,date,decembre,reveillon,08/12,16/12,noel
+2,date,janvier,30/01,28/01,galette des rois,15/01,02/01
+1,animal,mammifere,oiseau,insect,poisson
+2,animal,mammifere,chien,kangourou,humain,vache,chat
+2,animal,insect,bousier,abeille,scarabee,mante-religieuse
+2,animal,poisson,carpe,saumon,requin
+1,activite,jeux,entreprise,artisanat,art
+2,activite,jeux,escape game,casino,jeux exterieurs,jeux de plateaux,lotterie
+2,activite,art,litterature,peinture,cinema,musique,bande-dessinee

@@ -1,0 +1,11 @@
+0,activite,date,vehicule,nourriture,emplacement,animal
+1,activite,sport,jeux,art,artisanat
+2,activite,jeux,escape game,jeux video,jeux de plateaux,jeux exterieurs
+2,activite,art,peinture,cinema,danse,gravure
+2,activite,artisanat,verrerie,menuiserie,plomberie
+1,vehicule,velo,train,bateau,avion,fusee
+2,vehicule,avion,avion-de-tourisme,mongolfiere,avion-de-chasse,jet-prive
+2,vehicule,fusee,apollo13,vaisseau-spatial,ariane,OVNI
+1,nourriture,boissons,pates,desserts,fastfood
+2,nourriture,boissons,the,jus de fruits,chocolat chaud,soda,biere
+2,nourriture,desserts,gateau,tarte,ile flottante,compote

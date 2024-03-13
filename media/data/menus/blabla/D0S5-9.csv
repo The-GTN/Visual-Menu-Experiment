@@ -1,0 +1,16 @@
+0,date,vehicule,animal,emplacement,nourriture
+1,date,fevrier,septembre,janvier,avril
+2,date,fevrier,01/02,st valentin,07/02
+2,date,septembre,13/09,15/09,20/09,25/09
+2,date,janvier,28/01,02/01,nouvel an,20/01,15/01
+2,date,avril,11/04,30/04,13/04,18/04,paque
+1,vehicule,velo,fusee,voiture,avion
+2,vehicule,fusee,vaisseau-spatial,rocket,ISS,spatial-tesla
+2,vehicule,voiture,honda,ferrari,4x4,toyota,voiturette
+2,vehicule,avion,mongolfiere,helico,jet-prive
+1,animal,insect,poisson,oiseau,mammifere
+2,animal,poisson,sardine,carpe,truite,poisson-chat
+1,emplacement,espagne,belgique,grece,angleterre
+2,emplacement,espagne,valence,madrid,barcelone
+2,emplacement,belgique,liege,namur,charleroi,mouscrons,bruxelles
+2,emplacement,angleterre,brighton,liverpool,manchester

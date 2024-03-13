@@ -1,0 +1,4 @@
+0,vehicule,date,emplacement,nourriture
+1,vehicule,avion,velo,train,bateau
+2,vehicule,velo,tricycle,velo-electrique,bicyclette,trotinette,monocycle
+2,vehicule,bateau,chalutier,voilier,jetski

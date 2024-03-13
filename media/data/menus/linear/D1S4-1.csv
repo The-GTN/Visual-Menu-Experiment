@@ -1,0 +1,16 @@
+0,animal,vehicule,activite,emplacement,nourriture,date
+1,animal,insect,oiseau,mammifere,poisson
+2,animal,mammifere,humain,chien,vache
+1,vehicule,bateau,train,fusee,voiture
+2,vehicule,fusee,apollo13,rocket,OVNI
+2,vehicule,voiture,honda,4x4,ferrari,lamborghini,voiturette
+1,activite,artisanat,entreprise,sport,art
+2,activite,artisanat,verrerie,forgerie,plomberie,menuiserie
+2,activite,entreprise,entreprenariat,team-leading,intraprenariat,co-working,start-up
+2,activite,sport,natation,musculation,tennis,course
+2,activite,art,bande-dessinee,cinema,litterature,musique
+1,emplacement,belgique,usa,grece,france
+2,emplacement,grece,corinthe,athenes,patras,rhodes
+1,nourriture,boissons,patates,desserts
+2,nourriture,boissons,vin,the,the glacee,biere
+2,nourriture,desserts,ile flottante,gateau,milkshake

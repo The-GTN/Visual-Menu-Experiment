@@ -1,0 +1,6 @@
+0,emplacement,vehicule,activite,animal
+1,vehicule,voiture,bateau,avion,train,velo
+2,vehicule,bateau,paquebot,pedalo,yacht,jetski,chalutier
+2,vehicule,avion,avion-de-tourisme,helico,mongolfiere
+1,activite,profession,artisanat,jeux,entreprise
+2,activite,entreprise,intraprenariat,entreprenariat,team-leading

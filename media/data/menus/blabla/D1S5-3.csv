@@ -1,0 +1,16 @@
+0,date,vehicule,nourriture,emplacement,activite,animal
+1,date,mars,avril,octobre,septembre
+2,date,octobre,halloween,11/10,15/10,20/10
+2,date,septembre,20/09,10/09,13/09
+1,nourriture,fruit,patates,boissons
+2,nourriture,fruit,fraise,pomme,ananas,banane,peche
+2,nourriture,boissons,chocolat chaud,vin,the,eau
+1,emplacement,grece,espagne,usa,france,italie
+2,emplacement,grece,heraklion,athenes,patras
+2,emplacement,usa,los angeles,houston,miami,new york
+1,activite,artisanat,jeux,art,sport
+2,activite,art,musique,bande-dessinee,sculpture,gravure,peinture
+1,animal,insect,oiseau,mammifere,reptile,poisson
+2,animal,insect,scarabee,bousier,criquet,moustique
+2,animal,oiseau,chouette,pigeon,vautour
+2,animal,mammifere,ours,kangourou,humain,chien

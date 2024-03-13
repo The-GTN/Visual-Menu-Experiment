@@ -1,0 +1,12 @@
+0,activite,emplacement,nourriture,vehicule,date,animal
+1,activite,profession,jeux,entreprise,art
+2,activite,profession,astronaute,boucher,pompier,boulanger,professeur
+2,activite,jeux,jeux de plateaux,escape game,lotterie,casino
+1,emplacement,belgique,italie,france,usa
+2,emplacement,belgique,bruges,charleroi,bruxelles,namur,mouscrons
+2,emplacement,france,grenoble,tourcoing,bordeaux
+2,emplacement,usa,new york,houston,washington
+1,vehicule,bateau,fusee,train,velo
+2,vehicule,velo,tricycle,trotinette,vtt,bicyclette,monocycle
+1,date,janvier,octobre,mars,septembre
+2,date,janvier,galette des rois,28/01,20/01,15/01,nouvel an

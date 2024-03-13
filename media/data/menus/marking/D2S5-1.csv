@@ -1,0 +1,8 @@
+0,emplacement,vehicule,nourriture,animal,date,activite
+1,vehicule,train,fusee,voiture,avion
+2,vehicule,avion,jet-prive,avion-de-chasse,avion-de-tourisme,mongolfiere,jet-pack
+1,nourriture,legumes,boissons,desserts
+2,nourriture,legumes,aubergine,poivron,carotte
+1,animal,reptile,mammifere,poisson,oiseau
+2,animal,mammifere,vache,furet,kangourou,humain,chien
+2,animal,oiseau,chouette,cygne,pie,vautour,pigeon

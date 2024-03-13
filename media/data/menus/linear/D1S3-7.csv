@@ -1,0 +1,12 @@
+0,animal,date,activite,vehicule,emplacement,nourriture
+1,animal,reptile,poisson,insect,mammifere
+2,animal,reptile,iguane,lezard,alligator
+1,date,avril,decembre,mars,fevrier,octobre
+2,date,avril,12/04,11/04,paque,18/04
+2,date,decembre,08/12,01/12,reveillon,02/12
+2,date,mars,22/03,21/03,st patrick
+2,date,fevrier,07/02,05/02,22/02,20/02
+1,vehicule,avion,velo,voiture,bateau,train
+2,vehicule,train,rer,tram,sncf,draisine,locomotive
+1,emplacement,belgique,france,espagne
+2,emplacement,belgique,menin,namur,liege

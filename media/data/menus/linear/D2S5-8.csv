@@ -1,0 +1,13 @@
+0,emplacement,vehicule,animal,date,activite,nourriture
+1,emplacement,grece,belgique,espagne,usa
+2,emplacement,grece,argos,thessalonique,heraklion,rhodes
+2,emplacement,espagne,grenade,seville,bilbao,barcelone,madrid
+2,emplacement,usa,san fransico,miami,los angeles
+1,vehicule,voiture,avion,bateau
+2,vehicule,avion,jet-pack,avion-de-chasse,mongolfiere,avion-de-tourisme,helico
+1,date,fevrier,octobre,mars,decembre
+2,date,octobre,11/10,15/10,30/10,01/10,20/10
+1,activite,jeux,art,sport,entreprise
+2,activite,jeux,escape game,jeux de plateaux,jeux video,laser game,lotterie
+2,activite,sport,judo,tennis,course
+2,activite,entreprise,co-working,entreprenariat,intraprenariat,gestion de projet,team-leading

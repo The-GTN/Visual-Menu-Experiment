@@ -1,0 +1,12 @@
+0,date,vehicule,activite,animal,emplacement
+1,date,decembre,janvier,avril,septembre
+2,date,decembre,01/12,16/12,noel
+2,date,avril,18/04,01/04,paque,12/04,11/04
+1,vehicule,avion,fusee,voiture,velo,bateau
+2,vehicule,fusee,ISS,OVNI,ariane,apollo13,rocket
+2,vehicule,voiture,renault,voiturette,lamborghini,honda
+2,vehicule,velo,bicyclette,velo-electrique,moto,tricycle
+1,animal,poisson,reptile,oiseau,insect
+2,animal,oiseau,cygne,vautour,aigle,pigeon,chouette
+1,emplacement,italie,belgique,angleterre
+2,emplacement,italie,venise,rome,turin,pompei

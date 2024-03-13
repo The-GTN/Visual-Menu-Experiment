@@ -1,0 +1,14 @@
+0,vehicule,animal,activite,nourriture,emplacement,date
+1,animal,oiseau,mammifere,poisson,insect
+2,animal,insect,mante-religieuse,scarabee,fourmi,criquet
+1,activite,artisanat,sport,art,profession
+2,activite,artisanat,forgerie,plomberie,menuiserie
+2,activite,profession,medecin,fleuriste,boulanger,astronaute
+1,nourriture,pates,boissons,patates
+2,nourriture,pates,lasagne,spaghetti,coquillette,linguinie
+2,nourriture,boissons,eau,the,soda,jus de fruits,the glacee
+1,emplacement,grece,espagne,usa,belgique
+2,emplacement,espagne,grenade,valence,madrid
+2,emplacement,belgique,bruges,namur,menin,mouscrons
+1,date,avril,septembre,fevrier,decembre
+2,date,septembre,01/09,13/09,20/09

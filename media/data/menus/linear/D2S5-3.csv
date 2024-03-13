@@ -1,0 +1,13 @@
+0,nourriture,animal,date,activite,emplacement,vehicule
+1,nourriture,boissons,pates,legumes,fruit,fastfood
+2,nourriture,fastfood,burger,sushis,nugget,kebab,pizza
+1,animal,poisson,oiseau,insect,reptile
+2,animal,poisson,poisson-clown,poisson-chat,truite,sardine,requin
+2,animal,reptile,crocodile,iguane,alligator,geiko,dragon
+1,date,mars,fevrier,janvier,octobre
+2,date,mars,22/03,20/03,30/03,10/03,07/03
+2,date,fevrier,st valentin,20/02,22/02
+1,activite,artisanat,jeux,sport,entreprise
+2,activite,artisanat,bijouterie,electricite,forgerie,verrerie
+2,activite,jeux,escape game,jeux de plateaux,jeux exterieurs,casino
+2,activite,sport,patinage,tennis,natation

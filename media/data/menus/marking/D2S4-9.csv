@@ -1,0 +1,16 @@
+0,date,emplacement,activite,nourriture,vehicule,animal
+1,date,octobre,avril,decembre,mars,septembre
+2,date,avril,01/04,18/04,13/04,11/04
+1,nourriture,pates,legumes,fastfood,patates
+2,nourriture,legumes,courgette,champignon,aubergine,tomate,poivron
+2,nourriture,fastfood,sushis,tacos,burger,nugget
+2,nourriture,patates,frite,grattin dauphinois,patate sautee,puree,gnocchis
+1,vehicule,voiture,avion,fusee,velo
+2,vehicule,voiture,lamborghini,toyota,voiturette
+2,vehicule,avion,mongolfiere,jet-prive,helico
+2,vehicule,fusee,spatial-tesla,OVNI,ariane,vaisseau-spatial
+2,vehicule,velo,bicyclette,vtt,tricycle
+1,animal,reptile,poisson,mammifere,oiseau
+2,animal,reptile,alligator,serpent,iguane
+2,animal,poisson,sardine,poisson-clown,poisson-chat
+2,animal,mammifere,ours,chien,chat,vache

@@ -1,0 +1,8 @@
+0,activite,vehicule,animal,date,nourriture
+1,activite,profession,art,sport
+1,animal,poisson,oiseau,mammifere,reptile,insect
+2,animal,insect,fourmi,moustique,mante-religieuse,scarabee,abeille
+1,nourriture,fruit,pates,fastfood,legumes,patates
+2,nourriture,fruit,fraise,orange,ananas,peche,banane
+2,nourriture,pates,coquillette,linguinie,tagliatelle
+2,nourriture,legumes,champignon,courgette,carotte,poireau,poivron

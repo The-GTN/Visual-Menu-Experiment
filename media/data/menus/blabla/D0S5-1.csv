@@ -1,0 +1,13 @@
+0,animal,date,vehicule,activite,emplacement
+1,animal,poisson,mammifere,insect,reptile,oiseau
+2,animal,reptile,geiko,crocodile,serpent
+2,animal,oiseau,pigeon,cygne,chouette,pie,aigle
+1,date,decembre,mars,janvier,avril
+2,date,decembre,16/12,08/12,10/12
+2,date,mars,10/03,20/03,21/03
+2,date,janvier,15/01,28/01,nouvel an
+1,vehicule,voiture,avion,train,velo,fusee
+2,vehicule,voiture,toyota,honda,ferrari,renault
+2,vehicule,avion,jet-pack,jet-prive,avion-de-chasse
+2,vehicule,train,draisine,sncf,locomotive,rer,metro
+2,vehicule,velo,trotinette,bicyclette,monocycle,velo-electrique,vtt

@@ -1,0 +1,17 @@
+0,date,activite,emplacement,animal,nourriture,vehicule
+1,date,decembre,mars,fevrier,septembre,janvier
+2,date,decembre,10/12,01/12,02/12,noel,16/12
+2,date,mars,07/03,30/03,20/03
+1,emplacement,angleterre,grece,espagne,usa,italie
+2,emplacement,grece,patras,thessalonique,rhodes,heraklion,corinthe
+2,emplacement,espagne,seville,valence,madrid
+1,animal,reptile,poisson,oiseau,insect
+2,animal,reptile,alligator,serpent,dragon
+2,animal,insect,bousier,scarabee,criquet,abeille,mante-religieuse
+1,nourriture,desserts,pates,patates,fastfood
+2,nourriture,desserts,yahourt,glace,tarte
+2,nourriture,pates,penne,lasagne,spaghetti
+2,nourriture,fastfood,tacos,nugget,sushis,kebab
+1,vehicule,fusee,train,voiture,bateau
+2,vehicule,fusee,apollo13,ISS,rocket,ariane
+2,vehicule,voiture,lamborghini,honda,renault,voiturette,toyota

@@ -1,0 +1,9 @@
+0,emplacement,vehicule,nourriture,activite,date,animal
+1,vehicule,bateau,fusee,voiture,train
+2,vehicule,bateau,chalutier,pedalo,yacht,voilier
+2,vehicule,fusee,apollo13,spatial-tesla,OVNI
+2,vehicule,train,draisine,locomotive,sncf,tram,rer
+1,activite,sport,artisanat,profession,entreprise
+2,activite,profession,medecin,fleuriste,boulanger,boucher
+1,date,septembre,janvier,octobre
+2,date,septembre,07/09,13/09,15/09,10/09

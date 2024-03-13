@@ -1,0 +1,9 @@
+0,date,nourriture,emplacement,animal
+1,date,fevrier,janvier,octobre,septembre
+2,date,septembre,10/09,25/09,07/09,15/09
+1,emplacement,france,grece,angleterre,belgique
+2,emplacement,france,tourcoing,grenoble,toulouse,roubaix,bordeaux
+2,emplacement,grece,argos,thessalonique,heraklion
+2,emplacement,belgique,charleroi,namur,mouscrons,menin,liege
+1,animal,oiseau,reptile,insect
+2,animal,reptile,alligator,dragon,geiko,iguane,serpent

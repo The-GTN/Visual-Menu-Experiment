@@ -1,0 +1,10 @@
+0,emplacement,date,nourriture,vehicule,activite,animal
+1,emplacement,france,belgique,espagne,italie
+2,emplacement,france,bordeaux,toulouse,tourcoing,lille,grenoble
+2,emplacement,italie,pompei,parme,venise,rome,milan
+1,nourriture,fruit,patates,pates,fastfood
+2,nourriture,fastfood,nugget,burger,kebab
+1,vehicule,fusee,avion,velo,bateau,train
+2,vehicule,train,sncf,locomotive,draisine,rer
+1,activite,art,entreprise,profession,sport
+2,activite,art,bande-dessinee,theatre,peinture

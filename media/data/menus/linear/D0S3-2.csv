@@ -1,0 +1,5 @@
+0,emplacement,activite,vehicule
+1,vehicule,train,voiture,velo,bateau
+2,vehicule,train,wagon,draisine,rer,metro,tram
+2,vehicule,voiture,honda,ferrari,toyota
+2,vehicule,velo,monocycle,moto,bicyclette

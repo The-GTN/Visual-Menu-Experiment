@@ -1,0 +1,16 @@
+0,animal,vehicule,emplacement,activite,nourriture,date
+1,vehicule,avion,fusee,velo,train
+2,vehicule,avion,jet-prive,avion-de-chasse,helico,mongolfiere,avion-de-tourisme
+2,vehicule,fusee,apollo13,ISS,rocket,spatial-tesla,ariane
+2,vehicule,train,locomotive,rer,tram,metro,draisine
+1,emplacement,angleterre,belgique,espagne,italie,france
+2,emplacement,belgique,bruxelles,menin,namur
+2,emplacement,france,grenoble,roubaix,paris,tourcoing
+1,activite,profession,entreprise,jeux,artisanat
+2,activite,profession,medecin,boucher,astronaute
+2,activite,entreprise,entreprenariat,gestion de projet,start-up
+2,activite,jeux,casino,jeux video,jeux de plateaux
+2,activite,artisanat,plomberie,forgerie,charpenterie
+1,date,octobre,mars,fevrier
+2,date,octobre,20/10,15/10,5/10
+2,date,mars,22/03,21/03,st patrick,30/03

@@ -1,0 +1,14 @@
+0,activite,nourriture,emplacement,animal,date,vehicule
+1,activite,entreprise,art,sport,jeux
+2,activite,art,danse,musique,theatre,gravure
+1,nourriture,desserts,legumes,fruit
+2,nourriture,desserts,tarte,ile flottante,glace,compote,milkshake
+1,emplacement,grece,angleterre,usa
+1,animal,poisson,insect,mammifere,reptile
+2,animal,insect,criquet,fourmi,abeille,mante-religieuse
+2,animal,mammifere,vache,ours,humain,kangourou
+2,animal,reptile,crocodile,geiko,lezard
+1,date,mars,octobre,fevrier,avril
+2,date,mars,20/03,10/03,22/03
+2,date,fevrier,22/02,01/02,05/02,10/02,20/02
+2,date,avril,12/04,13/04,30/04

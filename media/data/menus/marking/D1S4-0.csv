@@ -1,0 +1,12 @@
+0,activite,vehicule,emplacement,nourriture,animal,date
+1,activite,profession,entreprise,sport,jeux
+2,activite,entreprise,gestion de projet,intraprenariat,management
+2,activite,jeux,escape game,jeux exterieurs,laser game,casino,jeux de plateaux
+1,vehicule,voiture,train,fusee,velo,avion
+2,vehicule,train,draisine,sncf,wagon,tram
+1,emplacement,angleterre,italie,usa,belgique
+2,emplacement,usa,houston,miami,new york,san fransico
+1,animal,poisson,oiseau,reptile,insect
+2,animal,poisson,poisson-clown,saumon,poisson-chat,carpe
+2,animal,oiseau,pigeon,corbeau,aigle
+2,animal,insect,bousier,moustique,criquet,mante-religieuse

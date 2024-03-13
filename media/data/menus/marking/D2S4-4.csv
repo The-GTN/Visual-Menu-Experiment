@@ -1,0 +1,20 @@
+0,animal,nourriture,date,activite,emplacement,vehicule
+1,animal,reptile,insect,oiseau,poisson
+2,animal,reptile,geiko,alligator,lezard,dragon,serpent
+2,animal,insect,fourmi,bousier,scarabee
+1,nourriture,patates,fastfood,legumes,desserts
+2,nourriture,desserts,milkshake,compote,ile flottante,tarte
+1,date,decembre,avril,janvier,octobre
+2,date,decembre,01/12,16/12,reveillon,08/12
+2,date,avril,13/04,paque,12/04,01/04
+2,date,janvier,nouvel an,galette des rois,30/01,28/01
+1,activite,sport,entreprise,profession,art
+2,activite,sport,musculation,tennis,patinage
+2,activite,profession,professeur,astronaute,boulanger,fleuriste
+1,emplacement,italie,angleterre,usa,france
+2,emplacement,italie,milan,florence,bologne
+2,emplacement,angleterre,leeds,brighton,londres,manchester,liverpool
+2,emplacement,usa,miami,los angeles,san fransico,washington,new york
+1,vehicule,fusee,voiture,velo
+2,vehicule,fusee,OVNI,rocket,spatial-tesla,vaisseau-spatial
+2,vehicule,voiture,honda,toyota,ferrari,renault

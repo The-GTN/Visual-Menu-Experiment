@@ -1,0 +1,15 @@
+0,nourriture,vehicule,animal,date,emplacement,activite
+1,nourriture,fastfood,pates,legumes,patates
+2,nourriture,fastfood,nugget,burritos,burger,sushis,kebab
+2,nourriture,legumes,carotte,tomate,aubergine,poireau,poivron
+2,nourriture,patates,puree,grattin dauphinois,patate sautee
+1,vehicule,train,voiture,velo,fusee
+2,vehicule,train,metro,rer,draisine,sncf
+1,animal,poisson,oiseau,reptile,mammifere
+2,animal,reptile,serpent,geiko,crocodile,alligator
+1,emplacement,france,italie,espagne,belgique,grece
+2,emplacement,italie,venise,pompei,rome
+2,emplacement,belgique,menin,liege,mouscrons,charleroi
+1,activite,profession,jeux,artisanat
+2,activite,jeux,escape game,jeux video,casino
+2,activite,artisanat,electricite,menuiserie,bijouterie,plomberie

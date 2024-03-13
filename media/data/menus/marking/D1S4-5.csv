@@ -1,0 +1,17 @@
+0,date,emplacement,activite,vehicule,nourriture,animal
+1,date,mars,janvier,octobre
+1,emplacement,angleterre,espagne,usa,italie
+2,emplacement,espagne,seville,valence,bilbao,barcelone,grenade
+2,emplacement,usa,washington,los angeles,las vegas
+1,activite,artisanat,entreprise,sport,jeux
+2,activite,entreprise,management,entreprenariat,gestion de projet,start-up,team-leading
+2,activite,sport,natation,tennis,course,musculation,patinage
+2,activite,jeux,lotterie,casino,jeux de plateaux
+1,nourriture,fruit,fastfood,desserts,legumes
+2,nourriture,fruit,ananas,fraise,banane,pomme
+2,nourriture,fastfood,burger,sushis,tacos
+2,nourriture,desserts,compote,yahourt,milkshake,ile flottante
+2,nourriture,legumes,tomate,aubergine,courgette,carotte
+1,animal,reptile,mammifere,oiseau,poisson
+2,animal,reptile,alligator,serpent,lezard
+2,animal,poisson,sardine,poisson-chat,requin,carpe,truite

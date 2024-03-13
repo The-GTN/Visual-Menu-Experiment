@@ -1,0 +1,10 @@
+0,vehicule,emplacement,date,animal,activite,nourriture
+1,emplacement,usa,espagne,angleterre
+2,emplacement,angleterre,liverpool,londres,bristol
+1,date,septembre,avril,mars,fevrier
+2,date,septembre,01/09,10/09,25/09,13/09
+1,nourriture,desserts,boissons,fastfood,patates
+2,nourriture,desserts,ile flottante,compote,tarte,milkshake
+2,nourriture,boissons,vin,jus de fruits,the glacee,chocolat chaud,biere
+2,nourriture,fastfood,sushis,tacos,pizza,nugget
+2,nourriture,patates,pomme dauphine,frite,patate sautee

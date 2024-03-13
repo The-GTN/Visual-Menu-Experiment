@@ -1,0 +1,11 @@
+0,nourriture,emplacement,animal,date,activite,vehicule
+1,nourriture,legumes,fastfood,desserts,fruit
+2,nourriture,legumes,poireau,courgette,champignon,carotte
+2,nourriture,desserts,compote,glace,tarte
+2,nourriture,fruit,ananas,fraise,peche,pomme
+1,emplacement,belgique,grece,usa
+2,emplacement,grece,corinthe,rhodes,thessalonique,heraklion
+1,animal,reptile,insect,oiseau,poisson
+2,animal,poisson,sardine,truite,poisson-chat
+1,vehicule,avion,bateau,voiture,velo
+2,vehicule,avion,mongolfiere,avion-de-chasse,jet-prive,jet-pack

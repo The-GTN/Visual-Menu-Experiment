@@ -1,0 +1,12 @@
+0,nourriture,animal,vehicule,emplacement,date,activite
+1,nourriture,desserts,fruit,pates,fastfood
+2,nourriture,desserts,gateau,ile flottante,tarte
+2,nourriture,pates,lasagne,spaghetti,farfalle
+2,nourriture,fastfood,tacos,burger,pizza,sushis,kebab
+1,emplacement,italie,angleterre,france
+2,emplacement,italie,florence,milan,bologne
+2,emplacement,angleterre,brighton,oxford,manchester,liverpool,londres
+1,date,mars,avril,janvier
+2,date,janvier,02/01,20/01,15/01,28/01
+1,activite,sport,artisanat,entreprise,jeux
+2,activite,entreprise,entreprenariat,gestion de projet,management

@@ -1,0 +1,13 @@
+0,animal,nourriture,date,emplacement,vehicule,activite
+1,animal,reptile,insect,oiseau,poisson
+2,animal,insect,mante-religieuse,abeille,moustique,scarabee,fourmi
+1,nourriture,fruit,legumes,boissons,fastfood,pates
+1,date,septembre,decembre,fevrier,mars
+2,date,septembre,01/09,20/09,15/09
+2,date,mars,st patrick,30/03,20/03
+1,emplacement,belgique,usa,espagne,grece
+2,emplacement,usa,los angeles,san fransico,houston,las vegas
+2,emplacement,espagne,grenade,madrid,seville,barcelone
+1,activite,sport,profession,artisanat,jeux
+2,activite,sport,musculation,course,tennis
+2,activite,profession,boulanger,professeur,fleuriste,medecin,astronaute

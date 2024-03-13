@@ -1,0 +1,16 @@
+0,vehicule,nourriture,emplacement,activite,animal,date
+1,vehicule,avion,voiture,velo,bateau
+2,vehicule,avion,avion-de-chasse,jet-pack,avion-de-tourisme,mongolfiere,helico
+2,vehicule,velo,vtt,moto,tricycle,bicyclette,trotinette
+2,vehicule,bateau,yacht,paquebot,pedalo,chalutier,voilier
+1,nourriture,boissons,fastfood,pates,patates,desserts
+2,nourriture,boissons,the glacee,vin,soda
+2,nourriture,fastfood,tacos,kebab,sushis,burritos,nugget
+1,emplacement,france,belgique,italie,usa
+2,emplacement,france,roubaix,paris,grenoble,tourcoing,toulouse
+2,emplacement,italie,naples,turin,milan,bologne,venise
+2,emplacement,usa,san fransico,miami,houston
+1,animal,poisson,reptile,oiseau,mammifere
+2,animal,poisson,saumon,requin,truite
+2,animal,reptile,iguane,crocodile,serpent,lezard,alligator
+2,animal,oiseau,pigeon,aigle,pie

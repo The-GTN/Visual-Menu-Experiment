@@ -1,0 +1,23 @@
+0,nourriture,date,animal,vehicule,emplacement,activite
+1,nourriture,pates,boissons,patates,desserts
+2,nourriture,pates,spaghetti,linguinie,tagliatelle,lasagne
+2,nourriture,boissons,biere,soda,vin,the glacee
+2,nourriture,patates,gnocchis,patate douce,frite
+2,nourriture,desserts,compote,ile flottante,glace,yahourt,gateau
+1,date,mars,octobre,janvier,avril
+2,date,mars,07/03,20/03,30/03,10/03
+2,date,octobre,5/10,halloween,11/10
+1,animal,insect,poisson,oiseau,mammifere,reptile
+2,animal,poisson,poisson-clown,requin,truite,poisson-chat,sardine
+2,animal,reptile,alligator,serpent,lezard,geiko,crocodile
+1,vehicule,avion,voiture,velo,bateau
+2,vehicule,avion,mongolfiere,helico,jet-prive
+2,vehicule,velo,vtt,trotinette,monocycle
+2,vehicule,bateau,jetski,pedalo,voilier,chalutier
+1,emplacement,belgique,usa,italie,espagne
+2,emplacement,belgique,bruxelles,charleroi,namur,mouscrons
+2,emplacement,italie,naples,florence,milan,bologne
+2,emplacement,espagne,grenade,madrid,barcelone,valence,seville
+1,activite,art,artisanat,sport
+2,activite,art,theatre,peinture,litterature,sculpture,cinema
+2,activite,artisanat,bijouterie,forgerie,charpenterie,verrerie

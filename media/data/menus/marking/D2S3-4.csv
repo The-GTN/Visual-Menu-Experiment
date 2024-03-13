@@ -1,0 +1,17 @@
+0,vehicule,date,animal,nourriture,activite,emplacement
+1,vehicule,velo,voiture,avion,fusee
+2,vehicule,velo,velo-electrique,tricycle,vtt,moto
+2,vehicule,fusee,rocket,spatial-tesla,OVNI,apollo13,ariane
+1,date,fevrier,octobre,decembre,avril
+2,date,decembre,10/12,02/12,reveillon,08/12,noel
+1,animal,oiseau,insect,mammifere,poisson
+2,animal,oiseau,vautour,corbeau,chouette,pigeon
+2,animal,insect,moustique,scarabee,fourmi,criquet
+2,animal,mammifere,chien,kangourou,ours,humain
+2,animal,poisson,poisson-clown,carpe,saumon,requin
+1,activite,profession,artisanat,entreprise,sport
+2,activite,artisanat,forgerie,bijouterie,charpenterie,plomberie,menuiserie
+2,activite,sport,course,tennis,musculation
+1,emplacement,angleterre,france,espagne,belgique
+2,emplacement,espagne,bilbao,valence,seville
+2,emplacement,belgique,bruges,bruxelles,charleroi,mouscrons,menin

@@ -1,0 +1,16 @@
+0,activite,vehicule,nourriture,date,animal,emplacement
+1,vehicule,voiture,avion,fusee,bateau
+2,vehicule,voiture,renault,voiturette,toyota
+2,vehicule,avion,avion-de-tourisme,avion-de-chasse,jet-prive,jet-pack,mongolfiere
+2,vehicule,fusee,ariane,rocket,spatial-tesla,vaisseau-spatial
+2,vehicule,bateau,paquebot,jetski,pedalo
+1,nourriture,pates,legumes,patates,fastfood,boissons
+2,nourriture,legumes,carotte,champignon,poivron,poireau,courgette
+2,nourriture,patates,frite,patate sautee,gnocchis,pomme dauphine
+1,date,janvier,mars,septembre
+1,animal,poisson,reptile,insect,oiseau,mammifere
+2,animal,poisson,saumon,poisson-chat,sardine,requin
+2,animal,reptile,dragon,alligator,serpent
+1,emplacement,italie,angleterre,espagne,grece,france
+2,emplacement,espagne,seville,grenade,barcelone
+2,emplacement,grece,heraklion,thessalonique,argos,patras,corinthe

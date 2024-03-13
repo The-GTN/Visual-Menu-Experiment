@@ -1,0 +1,10 @@
+0,nourriture,emplacement,activite,vehicule,animal,date
+1,emplacement,france,belgique,usa,italie
+2,emplacement,belgique,menin,namur,liege,charleroi,bruges
+2,emplacement,usa,houston,san fransico,las vegas
+2,emplacement,italie,rome,turin,bologne
+1,activite,jeux,sport,art,profession
+2,activite,jeux,jeux exterieurs,escape game,jeux video
+2,activite,sport,musculation,badminton,natation,patinage,judo
+2,activite,art,bande-dessinee,cinema,theatre
+2,activite,profession,professeur,boulanger,medecin,fleuriste

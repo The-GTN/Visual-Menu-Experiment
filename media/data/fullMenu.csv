@@ -1,0 +1,38 @@
+2,vehicule,voiture,toyota,renault,4x4,lamborghini,ferrari,honda,voiturette
+2,vehicule,bateau,pedalo,jetski,chalutier,yacht,voilier,paquebot
+2,vehicule,avion,helico,avion-de-chasse,jet-prive,avion-de-tourisme,mongolfiere,jet-pack
+2,vehicule,velo,vtt,bicyclette,monocycle,velo-electrique,tricycle,trotinette,moto
+2,vehicule,fusee,ariane,rocket,apollo13,ISS,vaisseau-spatial,OVNI,spatial-tesla
+2,vehicule,train,sncf,tram,metro,rer,draisine,locomotive,wagon
+2,animal,mammifere,chat,chien,humain,ours,kangourou,vache,furet
+2,animal,insect,abeille,bousier,criquet,fourmi,moustique,mante-religieuse,scarabee
+2,animal,oiseau,pigeon,aigle,chouette,corbeau,cygne,vautour,pie
+2,animal,poisson,requin,truite,saumon,poisson-clown,poisson-chat,sardine,carpe
+2,animal,reptile,lezard,serpent,iguane,crocodile,alligator,dragon,geiko
+2,activite,art,peinture,sculpture,musique,gravure,cinema,theatre,danse,bande-dessinee,litterature
+2,activite,sport,badminton,course,musculation,natation,patinage,judo,tennis,peche
+2,activite,jeux,escape game,laser game,jeux de plateaux,jeux video,casino,lotterie,jeux exterieurs
+2,activite,artisanat,bijouterie,menuiserie,charpenterie,forgerie,verrerie,plomberie,electricite
+2,activite,entreprise,management,co-working,entreprenariat,intraprenariat,start-up,gestion de projet,team-leading
+2,activite,profession,professeur,medecin,pompier,fleuriste,boucher,boulanger,astronaute
+2,nourriture,fruit,banane,pomme,fraise,mangue,ananas,orange,peche
+2,nourriture,legumes,tomate,carotte,poireau,courgette,aubergine,poivron,champignon
+2,nourriture,fastfood,burger,tacos,kebab,nugget,pizza,burritos,sushis
+2,nourriture,pates,spaghetti,tagliatelle,coquillette,penne,linguinie,lasagne,farfalle
+2,nourriture,patates,puree,frite,patate sautee,patate douce,pomme dauphine,grattin dauphinois,gnocchis
+2,nourriture,desserts,glace,milkshake,tarte,ile flottante,gateau,yahourt,compote
+2,nourriture,boissons,jus de fruits,the glacee,soda,cafe,biere,the,chocolat chaud,vin,eau
+2,date,septembre,15/09,01/09,20/09,07/09,25/09,10/09,13/09
+2,date,octobre,halloween,01/10,15/10,20/10,30/10,11/10,5/10
+2,date,decembre,reveillon,noel,16/12,02/12,08/12,10/12,01/12
+2,date,janvier,nouvel an,15/01,02/01,galette des rois,20/01,28/01,30/01
+2,date,fevrier,st valentin,01/02,10/02,20/02,22/02,05/02,07/02
+2,date,mars,st patrick,07/03,10/03,20/03,21/03,22/03,30/03
+2,date,avril,paque,01/04,11/04,18/04,13/04,12/04,30/04
+2,emplacement,france,paris,lille,bordeaux,toulouse,grenoble,tourcoing,roubaix
+2,emplacement,angleterre,oxford,londres,liverpool,brighton,manchester,leeds,bristol
+2,emplacement,espagne,madrid,barcelone,valence,grenade,bilbao,seville
+2,emplacement,italie,rome,venise,florence,pompei,parme,bologne,naples,turin,milan
+2,emplacement,grece,athenes,argos,thessalonique,corinthe,heraklion,rhodes,patras
+2,emplacement,usa,washington,new york,los angeles,miami,san fransico,houston,las vegas
+2,emplacement,belgique,bruxelles,bruges,liege,namur,charleroi,mouscrons,menin

@@ -1,0 +1,10 @@
+0,animal,nourriture,vehicule,date,activite,emplacement
+1,animal,mammifere,reptile,poisson,oiseau,insect
+2,animal,insect,fourmi,moustique,scarabee
+1,nourriture,fruit,desserts,pates,fastfood
+2,nourriture,fruit,banane,orange,peche
+1,date,avril,fevrier,octobre,decembre
+1,activite,entreprise,artisanat,jeux,sport
+1,emplacement,france,usa,espagne,grece
+2,emplacement,france,lille,toulouse,paris
+2,emplacement,usa,las vegas,washington,los angeles

@@ -1,0 +1,9 @@
+0,animal,vehicule,date,emplacement,nourriture
+1,animal,oiseau,poisson,mammifere,insect
+2,animal,oiseau,aigle,vautour,cygne,corbeau,chouette
+2,animal,poisson,truite,carpe,saumon
+2,animal,mammifere,kangourou,furet,chien,chat,ours
+1,vehicule,voiture,fusee,bateau,avion,velo
+2,vehicule,fusee,OVNI,rocket,ISS
+2,vehicule,bateau,paquebot,pedalo,voilier,jetski,yacht
+1,nourriture,patates,fastfood,legumes

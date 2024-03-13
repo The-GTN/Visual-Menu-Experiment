@@ -1,0 +1,16 @@
+0,animal,emplacement,vehicule,date,nourriture,activite
+1,vehicule,voiture,avion,fusee
+2,vehicule,fusee,rocket,vaisseau-spatial,ariane
+1,date,avril,janvier,septembre,decembre
+2,date,avril,01/04,18/04,13/04,30/04
+2,date,janvier,nouvel an,30/01,20/01,28/01,15/01
+2,date,decembre,08/12,02/12,10/12,noel,reveillon
+1,nourriture,patates,fruit,fastfood,legumes
+2,nourriture,patates,frite,gnocchis,patate sautee,puree
+2,nourriture,fruit,mangue,ananas,fraise,banane,peche
+2,nourriture,fastfood,burger,sushis,kebab,nugget
+1,activite,entreprise,jeux,artisanat,sport
+2,activite,entreprise,management,team-leading,intraprenariat,entreprenariat,start-up
+2,activite,jeux,casino,jeux de plateaux,escape game,jeux exterieurs
+2,activite,artisanat,verrerie,electricite,charpenterie,bijouterie
+2,activite,sport,judo,badminton,patinage,tennis,musculation

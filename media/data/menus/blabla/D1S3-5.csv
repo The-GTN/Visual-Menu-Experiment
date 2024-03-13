@@ -1,0 +1,12 @@
+0,activite,emplacement,vehicule,animal,date,nourriture
+1,emplacement,angleterre,grece,espagne,belgique
+2,emplacement,grece,patras,argos,rhodes,heraklion,thessalonique
+2,emplacement,espagne,grenade,seville,bilbao
+1,vehicule,avion,fusee,train
+2,vehicule,avion,avion-de-tourisme,jet-prive,mongolfiere,avion-de-chasse,jet-pack
+1,animal,poisson,reptile,oiseau,mammifere
+2,animal,poisson,carpe,truite,saumon
+2,animal,reptile,geiko,lezard,dragon
+2,animal,mammifere,humain,furet,chien,chat,kangourou
+1,nourriture,patates,legumes,fastfood,fruit
+2,nourriture,patates,puree,pomme dauphine,gnocchis

@@ -1,0 +1,11 @@
+0,animal,activite,nourriture,date,vehicule
+1,activite,profession,artisanat,entreprise,sport,art
+2,activite,entreprise,team-leading,co-working,intraprenariat,entreprenariat,gestion de projet
+1,nourriture,desserts,boissons,fastfood
+2,nourriture,desserts,ile flottante,glace,yahourt,milkshake
+2,nourriture,fastfood,sushis,burger,nugget
+1,date,septembre,janvier,fevrier
+2,date,septembre,15/09,10/09,07/09,25/09,20/09
+1,vehicule,fusee,bateau,train
+2,vehicule,fusee,ariane,rocket,spatial-tesla,ISS
+2,vehicule,train,tram,metro,wagon

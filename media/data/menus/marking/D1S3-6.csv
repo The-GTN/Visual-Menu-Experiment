@@ -1,0 +1,16 @@
+0,date,activite,nourriture,animal,emplacement,vehicule
+1,date,avril,decembre,mars,janvier
+2,date,avril,30/04,13/04,paque
+2,date,mars,22/03,20/03,21/03,30/03,st patrick
+1,nourriture,legumes,boissons,desserts
+2,nourriture,legumes,champignon,aubergine,poivron,tomate,carotte
+2,nourriture,boissons,eau,soda,biere,vin
+1,animal,insect,mammifere,poisson,reptile
+2,animal,poisson,poisson-clown,poisson-chat,saumon,truite
+1,emplacement,italie,espagne,france,belgique
+2,emplacement,espagne,madrid,barcelone,bilbao
+2,emplacement,france,tourcoing,paris,lille
+1,vehicule,voiture,train,avion,fusee,velo
+2,vehicule,voiture,ferrari,lamborghini,4x4,renault,honda
+2,vehicule,train,metro,sncf,rer
+2,vehicule,velo,trotinette,moto,vtt

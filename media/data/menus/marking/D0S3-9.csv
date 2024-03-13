@@ -1,0 +1,7 @@
+0,animal,activite,vehicule
+1,activite,profession,sport,art,entreprise
+2,activite,profession,medecin,professeur,boucher,astronaute
+2,activite,art,bande-dessinee,gravure,peinture,theatre
+2,activite,entreprise,co-working,management,gestion de projet,intraprenariat
+1,vehicule,velo,train,bateau
+2,vehicule,velo,bicyclette,tricycle,moto

@@ -1,0 +1,8 @@
+0,activite,animal,date,nourriture
+1,animal,mammifere,reptile,poisson,insect
+2,animal,reptile,geiko,lezard,alligator,iguane,dragon
+1,date,janvier,avril,septembre,decembre
+2,date,janvier,28/01,galette des rois,nouvel an,20/01
+2,date,avril,18/04,12/04,11/04,30/04,01/04
+2,date,septembre,10/09,13/09,01/09,15/09
+2,date,decembre,16/12,01/12,10/12

@@ -1,0 +1,13 @@
+0,activite,emplacement,nourriture,animal,vehicule,date
+1,activite,art,profession,sport,artisanat
+2,activite,sport,course,patinage,badminton,tennis,natation
+2,activite,artisanat,verrerie,charpenterie,forgerie
+1,nourriture,pates,fastfood,legumes,fruit
+2,nourriture,pates,tagliatelle,farfalle,linguinie,lasagne,spaghetti
+2,nourriture,fastfood,burger,pizza,nugget,burritos
+1,animal,reptile,insect,mammifere,poisson
+2,animal,mammifere,chat,vache,humain,ours
+2,animal,poisson,poisson-clown,poisson-chat,carpe
+1,vehicule,avion,bateau,train,fusee
+2,vehicule,avion,helico,mongolfiere,avion-de-chasse,jet-prive
+2,vehicule,train,metro,rer,locomotive,sncf
